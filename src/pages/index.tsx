@@ -16,10 +16,7 @@ function HomepageHeader() {
     </header>
   );
 }
-      <section className="homePageSearch">
-        <SearchBar />
-      </section>
-      
+
 export default function Home(): JSX.Element {
   const {
     siteConfig: { customFields },
@@ -30,7 +27,9 @@ export default function Home(): JSX.Element {
   return (
     <Layout title="Home" description={description}>
       <HomepageHeader />
-
+      <section className="homePageSearch">
+        <SearchBar />
+      </section>
       <main>
         <Projects />
       </main>
