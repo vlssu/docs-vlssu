@@ -185,6 +185,7 @@ const base = {
         appId: "N7DOAH86MC",
         apiKey: "3cdbb34f9d17bdcf072f295e7665bdd0",
         indexName: "vlssu",
+        contextualSearch: true,
       },
     }),
 
