@@ -16,9 +16,9 @@ function HomepageHeader() {
     </header>
   );
 }
-      /**<section className="homePageSearch">
+      <section className="homePageSearch">
         <SearchBar />
-      </section>*/
+      </section>
       
 export default function Home(): JSX.Element {
   const {

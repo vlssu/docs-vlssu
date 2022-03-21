@@ -181,16 +181,16 @@ const base = {
         ],
         theme: require("prism-react-renderer/themes/vsDark"),
       },
-      /*algolia: {
-        appId: "HUJ6O3MD0E",
-        apiKey: "396ddae617bd15bb5416063125fc1253",
-        indexName: "vlssu-docs",
-      },*/
+      algolia: {
+        appId: "N7DOAH86MC",
+        apiKey: "3cdbb34f9d17bdcf072f295e7665bdd0",
+        indexName: "vlssu",
+      },
     }),
 
   themes: [
     // ... Your other themes.
-    [
+    /*[
       require.resolve("@easyops-cn/docusaurus-search-local"),
       {
         // ... Your options.
@@ -218,7 +218,7 @@ const base = {
           "no_documents_were_found": "没有找到文件"
         }
       },
-    ],
+    ],*/
   ],
 };
 
