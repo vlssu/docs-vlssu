@@ -16,7 +16,7 @@ function Project(project: Project) {
   return (
     <div className={styles.project}>
       <div className={styles.flex}>
-        <Link className={styles.projectGitHub} to={`${project.url}`}>>
+        <Link className={styles.projectGitHub} to={`${project.url}`}>
           {project.title}
         </Link>
         <p>{project.description}</p>
