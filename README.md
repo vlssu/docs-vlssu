@@ -1,7 +1,7 @@
 # docs ![Build Status](https://img.shields.io/github/workflow/status/PaperMC/docs/Publish/main?logo=github) ![Deployment Status](https://img.shields.io/github/deployments/PaperMC/docs/github-pages?label=deployment&logo=github) ![License](https://img.shields.io/github/license/PaperMC/docs)
 
-This is the repository for all project documentation under the PaperMC umbrella. Content in this
-repository is published to [docs.papermc.io](https://docs.papermc.io) for viewing.
+This is the repository for all project documentation under the VLssu umbrella. Content in this
+repository is published to [docs.vlssu.com](https://docs.vlssu.com) for viewing.
 
 ## Getting Started
 
@@ -17,7 +17,7 @@ How to get docs running on your local machine for development.
 1. Clone the repository. If you plan to make changes, create a fork first!
 
 ```bash
-$ git clone https://github.com/PaperMC/docs
+$ git clone https://gitlab.vlssu.com/vlssu/docs.vlssu.com
 ```
 
 2. Install all required dependencies.
