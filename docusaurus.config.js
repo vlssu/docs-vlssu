@@ -78,6 +78,7 @@ const base = {
   themeConfig:
     /** @type {import("@docusaurus/preset-classic").ThemeConfig} */
     ({
+      /*hideableSidebar: true,*/
       colorMode: {
         respectPrefersColorScheme: true,
       },
@@ -97,6 +98,7 @@ const base = {
         },
       ],
       navbar: {
+        /*hideOnScroll: true,*/
         title: "VLssu Docs",
         logo: {
           alt: "VLssu Logo",

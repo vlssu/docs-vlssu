@@ -1,0 +1,10 @@
+{
+  "title": {
+    "message": "VLssu Docs",
+    "description": "The title in the navbar"
+  },
+  "item.label.VLssuSkin": {
+    "message": "VLssuSkin",
+    "description": "Navbar item with label VLssuSkin"
+  }
+}

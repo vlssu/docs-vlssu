@@ -1,0 +1,18 @@
+{
+  "version.label": {
+    "message": "Next",
+    "description": "The label for version current"
+  },
+  "sidebar.docs.category.VLssuSkin皮肤站": {
+    "message": "VLssuSkin皮肤站",
+    "description": "The label for category VLssuSkin皮肤站 in sidebar docs"
+  },
+  "sidebar.docs.category.新手指引": {
+    "message": "新手指引",
+    "description": "The label for category 新手指引 in sidebar docs"
+  },
+  "sidebar.docs.category.高级功能": {
+    "message": "高级功能",
+    "description": "The label for category 高级功能 in sidebar docs"
+  }
+}
