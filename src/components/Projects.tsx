@@ -10,6 +10,13 @@ const projects: Project[] = [
     link: "/vlssuskin",
     repo: "https://skin.vlssu.com",
   },
+  {
+    title: "Vlssu公益服",
+    description:
+      "VLssu下的我的世界服务器文档，让你更容易、实时的找到你需要的内容",
+    link: "/mcserver",
+    repo: "https://vlssu.cn",
+  },
 ];
 /**<Link className={styles.projectGitHub} to={`https://github.com/${project.repo}`}>*/
 function Project(project: Project) {

@@ -1,5 +1,6 @@
 ---
 sidebar_position: 1
+title: 用户服务条款
 ---
 
 # VlssuSkin 用户服务条款
