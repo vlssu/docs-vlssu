@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-## 欢迎游玩我们的服务器
+# 欢迎游玩我们的服务器
 
 [QQ群 - VLssu公益服](https://jq.qq.com/?_wv=1027&k=0anjDlw3)
 
