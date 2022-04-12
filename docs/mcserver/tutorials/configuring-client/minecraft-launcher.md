@@ -26,20 +26,21 @@ sidebar_position: 1
 ![An image](/img/mcserver/ml3.jpg)
 
 import Tabs from '@theme/Tabs';
-
 import TabItem from '@theme/TabItem';
 
-:::tip 惩罚措施
-
 <Tabs className="unique-tabs">
-  <TabItem value="设置参数">
-    ```
-    -javaagent:{绝对位置\authlib-injector.jar}=https://skin.vlssu.com/api/yggdrasil
-    ```
-  </TabItem>
-  <TabItem value="这是我的参数">
-    ```
-    -javaagent:C:\Users\cmy13\AppData\Roaming\.minecraft\authlib-injector.jar=https://skin.vlssu.com/api/yggdrasil -Xmx8G -XX:+UnlockExperimentalVMOptions -XX:+UseG1GC -XX:G1NewSizePercent=20 -XX:G1ReservePercent=20 -XX:MaxGCPauseMillis=50 -XX:G1HeapRegionSize=32M
-    ```
-  </TabItem>
+<TabItem value="设置参数">
+
+```js
+-javaagent:{绝对位置\authlib-injector.jar}=https://skin.vlssu.com/api/yggdrasil
+```
+
+</TabItem>
+<TabItem value="这是我的参数">
+
+```js
+    -javaagent:C:\Users\vlssu\AppData\Roaming\.minecraft\authlib-injector.jar=https://skin.vlssu.com/api/yggdrasil -Xmx8G -XX:+UnlockExperimentalVMOptions -XX:+UseG1GC -XX:G1NewSizePercent=20 -XX:G1ReservePercent=20 -XX:MaxGCPauseMillis=50 -XX:G1HeapRegionSize=32M
+```
+
+</TabItem>
 </Tabs>

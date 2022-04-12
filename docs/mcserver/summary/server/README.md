@@ -18,21 +18,42 @@ sidebar_position: 1
 10. 禁止大量养殖动物，利用游戏特性将生物卡在同一格且生物数量超过一定量的，全部清除。【多层牧场只算最大的一层面积】（安全标准：每两格面积一只动物）
 11. 不可利用规定钻漏洞或碰瓷其他玩家，不可恶人先告状寻衅滋事【此类情况封三天先】
 
-import Tabs from '@theme/Tabs';
-
-import TabItem from '@theme/TabItem';
-
 :::tip 惩罚措施
 
+import Tabs from '@theme/Tabs';
+import TabItem from '@theme/TabItem';
+
 <Tabs className="unique-tabs">
-  <TabItem value="【熊、破坏、随便拿他人东西】">
-    1. 玩家如果无所谓，不举报无操作，但玩家在意并举报给管理员直接banip
-    2. 发现【熊、破坏】封IP （永久封禁） 【随便拿他人东西】封IP （永久封禁）
-  </TabItem>
-  <TabItem value="【骂人、刷屏】">
-    1. 第一次发现【骂人、刷屏】禁言（5天）
-    2. 第二次发现【骂人、刷屏】禁言（永久禁言）
-  </TabItem>
+<TabItem value="【熊、破坏、随便拿他人东西】">
+
+1. 玩家如果无所谓，不举报无操作，但玩家在意并举报给管理员直接banip
+2. 发现【熊、破坏】封IP （永久封禁） 【随便拿他人东西】封IP （永久封禁）
+
+</TabItem>
+<TabItem value="【骂人、刷屏】">
+
+1. 第一次发现【骂人、刷屏】禁言（5天）
+2. 第二次发现【骂人、刷屏】禁言（永久禁言）
+
+</TabItem>
 </Tabs>
 
 :::
+
+:::info
+服务器各服文档
+:::
+
+[登录大厅](./login.md)
+
+[生存服务器](./survive.md)
+
+[创造服务器](./creative.md)
+
+[空岛服务器](./bskyblock.md)
+
+[快照服务器](./beta-survive.md)
+
+[模组服务器](./mod-server.md)
+
+[模组生存服](./bmss.md)
