@@ -1,3 +1,7 @@
+---
+sidebar_position: 2
+---
+
 # Yggdrasil
 
 VlssuSkin 提供 Yggdrasil 验证鉴权服务，你可以配合 [authlib-injector](https://github.com/yushijinhun/authlib-injector) 来实现 Minecraft 服务器外置登录，并在不安装皮肤 Mod 的情况下加载来自 VlssuSkin 的材质。

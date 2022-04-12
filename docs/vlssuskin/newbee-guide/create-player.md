@@ -1,3 +1,7 @@
+---
+sidebar_position: 1
+---
+
 # 创建角色
 
 VlssuSkin 支持的皮肤 Mod 都是通过角色名来识别玩家身份并加载材质的，所以你需要先创建你的游戏角色才能在 Minecraft 中加载皮肤。

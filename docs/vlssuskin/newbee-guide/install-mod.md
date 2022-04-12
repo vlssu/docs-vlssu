@@ -1,3 +1,7 @@
+---
+sidebar_position: 3
+---
+
 # 配置 Mod
 
 VlssuSkin仅提供材质的上传，存储，检索和分享的功能。想要在Minecraft中显示你在VlssuSkin设置的材质的话，你需要在Minecraft客户端中安装皮肤Mod并修改相应的配置文件。

@@ -1,3 +1,7 @@
+---
+sidebar_position: 4
+---
+
 # 与 Flarum 联动
 由于 Blessing Skin 提供了 OAuth 服务器，因此我们为 Flarum 编写了一个扩展（extension）。利用这个扩展，Flarum 将作为 OAuth 客户端并从 Blessing Skin 获取用户数据。
 
