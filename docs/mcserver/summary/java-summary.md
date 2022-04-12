@@ -4,9 +4,8 @@ sidebar_position: 1
 
 # JAVA进服地址
 
-## JAVA版服务器地址（IP）
-
-:::info **mc.vlssu.cn**
+:::tip JAVA版服务器地址（IP）
+**mc.vlssu.cn**
 :::
 
 
@@ -25,8 +24,8 @@ sidebar_position: 1
 
 我们皮肤站 [**skin.vlssu.com**](https://skin.vlssu.com)
 
-* 在使用我们的皮肤站时请用皮肤站登陆
-* 在使用时可能会出现问题（这些都不是服务器的问题是玩家本身）
+- 在使用我们的皮肤站时请用皮肤站登陆
+- 在使用时可能会出现问题（这些都不是服务器的问题是玩家本身）
 :::
 
 [如何注册皮肤站](../tutorials/reg-skin-station.md)

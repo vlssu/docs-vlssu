@@ -20,23 +20,15 @@ sidebar_position: 1
 
 :::tip 惩罚措施
 
-import Tabs from '@theme/Tabs';
-import TabItem from '@theme/TabItem';
-
-<Tabs className="unique-tabs">
-<TabItem value="【熊、破坏、随便拿他人东西】">
+【熊、破坏、随便拿他人东西】惩罚措施如下：
 
 1. 玩家如果无所谓，不举报无操作，但玩家在意并举报给管理员直接banip
 2. 发现【熊、破坏】封IP （永久封禁） 【随便拿他人东西】封IP （永久封禁）
 
-</TabItem>
-<TabItem value="【骂人、刷屏】">
+【骂人、刷屏】惩罚措施如下：
 
 1. 第一次发现【骂人、刷屏】禁言（5天）
 2. 第二次发现【骂人、刷屏】禁言（永久禁言）
-
-</TabItem>
-</Tabs>
 
 :::
 

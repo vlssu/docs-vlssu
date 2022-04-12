@@ -28,18 +28,18 @@ sidebar_position: 1
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
 
-<Tabs className="unique-tabs">
-<TabItem value="设置参数">
+<Tabs>
+<TabItem value="设置参数" label="设置参数">
 
 ```js
 -javaagent:{绝对位置\authlib-injector.jar}=https://skin.vlssu.com/api/yggdrasil
 ```
 
 </TabItem>
-<TabItem value="这是我的参数">
+<TabItem value="这是我的参数" label="这是我的参数">
 
 ```js
-    -javaagent:C:\Users\vlssu\AppData\Roaming\.minecraft\authlib-injector.jar=https://skin.vlssu.com/api/yggdrasil -Xmx8G -XX:+UnlockExperimentalVMOptions -XX:+UseG1GC -XX:G1NewSizePercent=20 -XX:G1ReservePercent=20 -XX:MaxGCPauseMillis=50 -XX:G1HeapRegionSize=32M
+-javaagent:C:\Users\vlssu\AppData\Roaming\.minecraft\authlib-injector.jar=https://skin.vlssu.com/api/yggdrasil -Xmx8G -XX:+UnlockExperimentalVMOptions -XX:+UseG1GC -XX:G1NewSizePercent=20 -XX:G1ReservePercent=20 -XX:MaxGCPauseMillis=50 -XX:G1HeapRegionSize=32M
 ```
 
 </TabItem>
