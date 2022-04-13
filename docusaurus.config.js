@@ -45,6 +45,12 @@ const base = {
           sidebarPath: require.resolve("./sidebars.js"),
         },
         blog: false,
+        {
+          gtag: {
+            trackingID: 'G-MSHH5BD64K',
+            anonymizeIP: true,
+          },
+        },
       }),
     ],
   ],
