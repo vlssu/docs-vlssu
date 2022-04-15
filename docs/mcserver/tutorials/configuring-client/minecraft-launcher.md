@@ -3,8 +3,6 @@ sidebar_position: 1
 ---
 
 # 正版启动器
-以下以 Minecraft Launcher 为例，演示在 Minecraft 客户端中使用 Yggdrasil。
-
 以下以 [Minecraft Launcher](https://www.minecraft.net/zh-hans/download) 为例，演示在 Minecraft 客户端中使用 Yggdrasil
 
 :::tip

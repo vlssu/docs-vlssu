@@ -3,11 +3,7 @@ sidebar_position: 2
 ---
 
 # HMCL启动器
-以下以 HMCL 3  为例，演示在 Minecraft 客户端中使用 Yggdrasil
-
-:::info
 以下以 [HMCL 3](https://ci.huangyuhui.net/job/HMCL/) 为例，演示在 Minecraft 客户端中使用 Yggdrasil
-:::
 
 :::tip
 打开 HMCL 3.5 的「新建游戏账户」界面。

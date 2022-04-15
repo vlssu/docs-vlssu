@@ -51,7 +51,7 @@ composer require blessing/flarum-oauth-client
 
 表单的各项说明：
 
-- 「Blessing Skin 根 URL」为您的 Blessing Skin 站点根 URL，在本文中为 https://localhost/；
+- 「Blessing Skin 根 URL」为您的 Blessing Skin 站点根 URL，在本文中为 `https://localhost/`；
 - 「OAuth 客户端 ID」是在 Blessing Skin 中创建应用时生成的 ID，这个 ID 可以在 Blessing Skin 的 OAuth 应用列表中被找到，例如本文中为 8；
 - 「OAuth 客户端 Secret」是在 Blessing Skin 中创建应用时生成的随机字符串，这个 secret 可以在 Blessing Skin 的 OAuth 应用列表中被找到；
 - 「登录按钮的文本」这一项可以不填，默认为「使用 Blessing Skin 登录」；
@@ -84,4 +84,3 @@ composer require blessing/flarum-oauth-client
 :::
 
 点击「注册」，就实现了使用 Blessing Skin 账号来登录 Flarum 论坛了。
-

@@ -3,8 +3,6 @@ sidebar_position: 3
 ---
 
 # PCL启动器
-以下以 PCL 2 为例，演示在 Minecraft 客户端中使用 Yggdrasil
-
 以下以 [PCL 2](https://afdian.net/@LTCat) 为例，演示在 Minecraft 客户端中使用 Yggdrasil
 
 :::tip
