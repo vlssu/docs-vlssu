@@ -28,4 +28,5 @@ sidebar_position: 1
 
 ## VLssu服务器历史线
 或许不全，但能大致了解
+
 ![vlssu历史线 draw.io](/img/mcserver/vlssu历史线.drawio.svg)
