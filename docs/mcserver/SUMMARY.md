@@ -1,4 +1,8 @@
-# Table of contents
+---
+sidebar_position: 2
+---
+
+# 目录
 
 * [欢迎游玩我们的服务器](README.md)
 * [QQ群 - VLssu公益服](https://jq.qq.com/?\_wv=1027\&k=0anjDlw3)
@@ -33,6 +37,5 @@
 * [关于赞助](sponsor.md)
   * [使用PayPal来赞助](https://paypal.me/vlssu1?country.x=C2\&locale.x=zh\_XC)
   * [VLssu公益服赞助列表](https://docs.qq.com/sheet/BqI21X2yZIht1J82GY3bbHaV3xitrv29OF2q2Ir8BG0Y6m4N1p7JDc3f29nG1wjiV81REN093S8jZb056WbJ0)
-* [VPS服务器购买](vps.md)
 * [服务器宣传片](https://www.bilibili.com/video/BV1yb411J7zw?zw)
 * [服务器整合包](https://cloud.vlssu.com/s/ZNCW)
