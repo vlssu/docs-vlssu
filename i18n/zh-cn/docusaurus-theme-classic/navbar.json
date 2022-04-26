@@ -6,5 +6,9 @@
   "item.label.VLssuSkin": {
     "message": "VLssuSkin",
     "description": "Navbar item with label VLssuSkin"
+  },
+  "item.label.mcserver": {
+    "message": "mcserver",
+    "description": "Navbar item with label mcserver"
   }
 }

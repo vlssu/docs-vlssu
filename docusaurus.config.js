@@ -114,6 +114,11 @@ const base = {
             label: "VLssuSkin",
             position: "left",
           },
+          {
+            to: "VLssu公益服",
+            label: "mcserver",
+            position: "left",
+          },
           /**{
             to: "https://papermc.io/downloads",
             label: "Downloads",
