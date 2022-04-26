@@ -7,8 +7,8 @@
     "message": "VLssuSkin",
     "description": "Navbar item with label VLssuSkin"
   },
-  "item.label.mcserver": {
-    "message": "mcserver",
-    "description": "Navbar item with label mcserver"
+  "item.label.VLssu公益服": {
+    "message": "VLssu公益服",
+    "description": "Navbar item with label VLssu公益服"
   }
 }

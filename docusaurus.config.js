@@ -115,8 +115,8 @@ const base = {
             position: "left",
           },
           {
-            to: "VLssu公益服",
-            label: "mcserver",
+            to: "mcserver",
+            label: "VLssu公益服",
             position: "left",
           },
           /**{
