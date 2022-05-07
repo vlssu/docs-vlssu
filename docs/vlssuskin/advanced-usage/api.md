@@ -18,4 +18,4 @@ VlssuSkin 使用 Blessing Skin 最新开发版本，支持通过 Blessing Skin A
 ## API 文档
 按理来说，VlssuSkin 的 Blessing Skin API 与原版 Blessing Skin API 完全一致，你可以直接参考 Blessing Skin API 的文档。
 
-地址：[https://bs-community.github.io/blessing-skin-api-docs/](https://bs-community.github.io/blessing-skin-api-docs/)
+地址：[Blessing Skin 用户手册 - Web API](https://blessing.netlify.app/api/)
