@@ -17,13 +17,13 @@ sidebar_position: 6
 6. 未提到的并不代表可以
 :::
 
-### 注意事项 <a href="#zhu-yi-shi-xiang" id="zhu-yi-shi-xiang"></a>
+### 注意事项
 
 :::danger
 玩家之间不可恶意掠夺，发现一个直接封
 :::
 
-### 服务器所用MOD <a href="#fu-wu-qi-suo-yong-mod" id="fu-wu-qi-suo-yong-mod"></a>
+### 服务器所用MOD
 
 :::tip
 自己去整合包里面看吧，提供起来太累了

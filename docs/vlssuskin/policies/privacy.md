@@ -65,4 +65,4 @@ sidebar_position: 2
 - Microsoft：隐私声明
   - 我们使用了 Microsoft Active Directory 中的 OAuth 登录验证服务，还在站点运营工作中使用了 Microsoft 365（包括 Office 365 专业增强版和 Exchange Online 等）服务；
 - 腾讯云：隐私声明
-  - 我们使用了腾讯云的域名解析（DNS）服务。
+  - 我们使用了腾讯云的域名解析（DNS）服务、内容分发网络（CDN）服务。

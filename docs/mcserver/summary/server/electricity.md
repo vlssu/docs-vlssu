@@ -8,8 +8,7 @@ sidebar_position: 8
 一个完全原版的服务器，不禁用任何红石或TNT限制
 :::
 
-:::tip
-我们加入了以下模组
+:::tip 我们加入了以下模组
 
 - [Lithium](https://www.mcmod.cn/class/2292.html)
 - [Ledger](https://www.mcmod.cn/class/5389.html)
@@ -22,3 +21,10 @@ sidebar_position: 8
 :::
 
 [点击链接加入群聊【VLssu生电服】](https://jq.qq.com/?_wv=1027&k=AfmobCvq)
+
+:::caution 注意事项
+
+1. 生电服需要注册[VlssuSkin皮肤站](https://skin.vlssu.com/)才可以进入服务器，否则我们无法将你加入白名单
+2. 服务器启用白名单机制，所以你需要管理员将你加入白名单内
+3. 生电服服务器没有任何限制，当然全档备份和方块记录备份有，所以请不要做傻事。
+:::

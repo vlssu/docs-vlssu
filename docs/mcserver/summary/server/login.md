@@ -22,3 +22,4 @@ sidebar_position: 1
 | 创造服    | /server creative          |
 | 空岛服    | /server bskyblock         |
 | OLD生存服 | /server old_survive       |
+| 一个面板化的快捷传送 | /stp       |
