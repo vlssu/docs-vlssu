@@ -5,8 +5,6 @@ const navbar: Omit<Navbar, "style" | "hideOnScroll"> = {
   title: "VLssu Docs",
   logo: {
     src: "img/logo.svg",
-    width: 130,
-    height: 32,
     alt: "VLssu Docs",
   },
   items: [
