@@ -1,4 +1,4 @@
-# docs ![Build Status](https://img.shields.io/github/workflow/status/PaperMC/docs/Publish/main?logo=github) ![Deployment Status](https://img.shields.io/github/deployments/PaperMC/docs/github-pages?label=deployment&logo=github) ![License](https://img.shields.io/github/license/PaperMC/docs)
+# docs ![Build Status](https://img.shields.io/github/workflow/status/vlssu/docs.vlssu.com/Publish/main?logo=github) ![Deployment Status](https://img.shields.io/github/deployments/vlssu/docs.vlssu.com/github-pages?label=deployment&logo=github) ![License](https://img.shields.io/github/license/vlssu/docs.vlssu.com)
 
 This is the repository for all project documentation under the VLssu umbrella. Content in this
 repository is published to [docs.vlssu.com](https://docs.vlssu.com) for viewing.

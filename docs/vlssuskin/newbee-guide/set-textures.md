@@ -26,7 +26,7 @@ VlssuSkin 支持单层皮肤（大小为 `64*32` 或其整数倍）、双层皮�
 
 1. 进入皮肤库，点击页面顶部菜单栏中的「上传新皮肤」
 
-![An image](/img/vlssuskin/st1.png)
+![An image](./img/st1.png)
 
 2. 在打开的页面中设置材质名称，选择材质类型，选择材质文件，选择是否设置为私密。
 你可以在右侧查看你的材质的预览。
@@ -60,11 +60,11 @@ VlssuSkin不允许上传包括但不限于如下内容的敏感材质（包括�
 
 1. 进入材质详情页面，点击材质预览下方左侧的「添加至衣柜」按钮
 
-![An image](/img/vlssuskin/st2.png)
+![An image](./img/st2.png)
 
 2. 在弹出的对话框中设置衣柜物品的名字，点击「确定」
 
-![An image](/img/vlssuskin/st3.png)
+![An image](./img/st3.png)
 
 3. 材质就被成功添加到衣柜啦〜添加完成后，你也可以直接在材质详情页面将材质设置到角色。
 
@@ -76,15 +76,15 @@ VlssuSkin不允许上传包括但不限于如下内容的敏感材质（包括�
 
 1. 点击用户中心左侧菜单栏中的「我的衣柜」
 
-![An image](/img/vlssuskin/st4.png)
+![An image](./img/st4.png)
 
 2. 在打开的页面的左侧上方选择材质的分类（皮肤/披风），选择你要使用的材质，点击右侧材质预览下方左侧的“使用”按钮
 
-![An image](/img/vlssuskin/st5.png)
+![An image](./img/st5.png)
 
 3. 在弹出的窗口中选择需要设置材质的角色，单击右下角的「提交」
 
-![An image](/img/vlssuskin/st6.png)
+![An image](./img/st6.png)
 
 4. 材质已经被设置到角色啦〜
 
@@ -96,4 +96,4 @@ VlssuSkin不允许上传包括但不限于如下内容的敏感材质（包括�
 
 在衣柜中选择「皮肤」分类，点击衣柜物品底端右侧的齿轮按钮，再点击「设为头像」即可。会自动裁剪皮肤的面部作为头像。
 
-![An image](/img/vlssuskin/st7.png)
+![An image](./img/st7.png)

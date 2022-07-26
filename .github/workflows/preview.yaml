@@ -54,7 +54,7 @@ jobs:
           branch: "main"
           folder: "build/"
           ssh-key: "${{ secrets.DOCS_PREVIEWS_DEPLOY_KEY }}"
-          repository-name: "PaperMC/docs-previews"
+          repository-name: "vlssu/docs.vlssu.com-previews"
           target-folder: "pull/${{ fromJSON(steps.data.outputs.result).pr }}"
           clean: false
       - name: "notify"

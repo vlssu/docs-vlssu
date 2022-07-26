@@ -18,11 +18,11 @@ VlssuSkin 支持 OAuth 2 服务端。你可以在你的应用中集成「使用 
 
 1. 打开 OAuth 2 应用管理页面，你可以在侧边栏的 开发者 -> OAuth2 应用 找到这个页面的链接。点击「创建应用」。
 
-![OAuth 2界面](/img/vlssuskin/o1.png)
+![OAuth 2界面](./img/o1.png)
 
 2. 输入你的应用的名称和回调 URL，点击「提交」。
 
-![OAuth 2输入信息](/img/vlssuskin/o2.png)
+![OAuth 2输入信息](./img/o2.png)
 
 3. 你的 OAuth 2 应用就创建好啦，你可以在页面中找到你的 OAuth 2 应用的客户端 ID 和客户端 Secret。
 

@@ -12,21 +12,21 @@ sidebar_position: 4
 这个菜单项很有可能是被管理员隐藏了，请联系他们开启。如果您是管理员，可暂时禁用「隐藏「高级功能」菜单」插件，在操作结束后再次启用即可。
 :::
 
-![An image](/img/vlssuskin/f1.png)
+![An image](./img/f1.png)
 
 然后点击「创建应用」：
 
-![An image](/img/vlssuskin/f2.png)
+![An image](./img/f2.png)
 
 在弹出的提示框中像这样填写信息：
 
-![An image](/img/vlssuskin/f3.png)
+![An image](./img/f3.png)
 
 其中「应用名」将在提示用户进行授权时显示；「回调 URL」中则请根据自己的实际情况修改域名（注意是 Flarum 网站所对应的域名），但后面的 pathname 部分必须是 `/auth/blessing`。
 
 提交后，列表中会出现刚刚创建的应用的信息：
 
-![An image](/img/vlssuskin/f4.png)
+![An image](./img/f4.png)
 
 至此，我们已经完成了在 Blessing Skin 中的设置。
 
@@ -40,14 +40,14 @@ composer require blessing/flarum-oauth-client
 
 然后进行「管理」，并启用「Blessing Skin Login」扩展：
 
-![An image](/img/vlssuskin/f5.png)
-![An image](/img/vlssuskin/f6.png)
+![An image](./img/f5.png)
+![An image](./img/f6.png)
 
 ## 设置 Flarum 扩展
 
 在启用「Blessing Skin Login」扩展后，将弹出扩展设置界面：
 
-![An image](/img/vlssuskin/f7.png)
+![An image](./img/f7.png)
 
 表单的各项说明：
 
@@ -59,19 +59,19 @@ composer require blessing/flarum-oauth-client
 
 填写结果如下：
 
-![An image](/img/vlssuskin/f8.png)
+![An image](./img/f8.png)
 
 ## 登录
 
 用户在登录时，可以看到登录表单中多出一个按钮：
 
-![An image](/img/vlssuskin/f9.png)
+![An image](./img/f9.png)
 
 点击「使用 Blessing Skin 登录」按钮（这个按钮的文本和图标可以在设置中被修改），就可以使用现有的 Blessing Skin 账号进行登录。
 
 首次访问时，Blessing Skin 将询问用户是否允许授权：
 
-![An image](/img/vlssuskin/f10.png)
+![An image](./img/f10.png)
 
 点击「授权」，Flarum 即可获取到用户的邮箱和昵称。
 

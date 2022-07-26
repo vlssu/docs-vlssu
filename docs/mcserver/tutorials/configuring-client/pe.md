@@ -25,6 +25,6 @@ mc.vlssu.cn 端口默认即可（19132）
 
 ## 使用皮肤站账户登录
 
-![点击【使用Mojang账户登录】](/img/mcserver/pe1.jpg)
+![点击【使用Mojang账户登录】](./img/pe1.jpg)
 
-![输入你注册的皮肤站账户即可进入](/img/mcserver/pe2.jpg)
+![输入你注册的皮肤站账户即可进入](./img/pe2.jpg)

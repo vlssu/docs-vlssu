@@ -8,7 +8,7 @@ sidebar_position: 1
 
 ### 首先进入皮肤站
 
-![An image](/img/mcserver/tm1.jpg)
+![An image](./img/tm1.jpg)
 
 ### 进行注册
 
@@ -20,13 +20,13 @@ sidebar_position: 1
 **注意！！** 正版无需注册，直接输入正版账户就完成了注册（并且皮肤、ID都会帮你配置好）
 :::
 
-![An image](/img/mcserver/tm2.jpg)
+![An image](./img/tm2.jpg)
 
 :::danger
 你需要验证邮箱，否则你将无法使用账户
 :::
 
-![An image](/img/mcserver/tm3.jpg)
+![An image](./img/tm3.jpg)
 
 :::info
 你的ID已在你注册时填写过了，你也可以按需求去皮肤库选皮肤或自己上传皮肤

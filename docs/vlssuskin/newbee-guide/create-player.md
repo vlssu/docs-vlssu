@@ -12,7 +12,7 @@ VlssuSkin 支持的皮肤 Mod 都是通过角色名来识别玩家身份并加�
 
 1. 点击用户中心左侧菜单栏中的「角色管理」，在打开的页面中点击「添加新角色」：
 
-![An image](/img/vlssuskin/cp1.png)
+![An image](./img/cp1.png)
 
 2. 在弹出的窗口中输入你的角色名，点击「提交」按钮：
 
@@ -21,7 +21,7 @@ VlssuSkin 支持的皮肤 Mod 都是通过角色名来识别玩家身份并加�
 角色名最少要求 3 个字符，最多不超过 16 个字符。
 :::
 
-![An image](/img/vlssuskin/cp2.png)
+![An image](./img/cp2.png)
 
 3. 你的第一个角色就创建好啦~
 

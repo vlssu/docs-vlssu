@@ -6,7 +6,7 @@ sidebar_position: 5
 
 ## 登入失败：无效会话（请尝试重启游戏及启动器）
 
-![](/img/mcserver/登入失败：无效会话（请尝试重启游戏及启动器）.png)
+![](./img/登入失败：无效会话（请尝试重启游戏及启动器）.png)
 
 （原因：玩家与认证服务器断开导致）解决：将启动器上的账户删除并重新添加账户再进入游戏即可解决 PS:**首先你需要先确定你是用皮肤站登陆进入**
 
@@ -14,11 +14,11 @@ sidebar_position: 5
 
 [【win7百度版教程链接】](https://jingyan.baidu.com/article/f71d60375584591ab641d13c.html)[【win10百度版教程链接】](https://jingyan.baidu.com/article/2fb0ba40833b0a00f2ec5f28.html)
 
-![](/img/mcserver/Unknown-host.png)
+![](./img/Unknown-host.png)
 
-![](/img/mcserver/无法解析主机名.png)
+![](./img/无法解析主机名.png)
 
-![](/img/mcserver/io.netty.png)
+![](./img/io.netty.png)
 
 - 一者服务器没开、二本地设置问题、三是你的DNS的问题、四网络设置问题
 
@@ -43,7 +43,7 @@ sidebar_position: 5
 
 ## 认证服务器处于宕机状态中。请稍后重试抱歉！
 
-![](/img/mcserver/登入失败身份验证目前正在停机维护.png)
+![](./img/登入失败身份验证目前正在停机维护.png)
 
 - 更新JAVA并启用它，这是你JAVA版本过低导致的，可以[**[点我下载最新JAVA]**](https://en.vessoft.com/software/windows/download/java)
 - 或者将启动器上的账户删除并重新添加账户再进入游戏
@@ -51,7 +51,7 @@ sidebar_position: 5
 
 ## Error occurred while contaoting login servers, are they down? 
 
-![Error occurred while contaoting login servers, are they down?](/img/mcserver/Error-occurred.png)
+![Error occurred while contaoting login servers, are they down?](./img/Error-occurred.png)
 
 - 你需要重新登录启动器上的账户并重启游戏即可
 
@@ -60,18 +60,18 @@ sidebar_position: 5
 - Not authenticated with Minecraft.net
 - 登入失败:Null
 
-![无法验证用户名](/img/mcserver/无法验证用户名.png)
+![无法验证用户名](./img/无法验证用户名.png)
 
-![Not authenticated with Minecraft.net](/img/mcserver/Not-authenticated-with-Minecraft.net.png)
+![Not authenticated with Minecraft.net](./img/Not-authenticated-with-Minecraft.net.png)
 
-![登入失败:Null](/img/mcserver/登入失败Null.png)
+![登入失败:Null](./img/登入失败Null.png)
 
 - 请使用**正版账户**或**微软账户**（需购买JAVA版我的世界）
 - 或者使用我们 [**VLssuSKIN 皮肤站**](./tutorials/reg-skin-station.md) 进行登录（**离线用户注册账户并验证邮箱后**就可以和**正版一样游玩我们的服务器**）
 
 ## 无效的登入凭据,请核查客户端外置登入配置或稍后重试
 
-![无效的登入凭据,请核查客户端外置登入配置或稍后重试](/img/mcserver/无效的登入凭据,请核查客户端外置登入配置或稍后重试.png)
+![无效的登入凭据,请核查客户端外置登入配置或稍后重试](./img/无效的登入凭据,请核查客户端外置登入配置或稍后重试.png)
 
 ### 现知触发原因：
 - 现阶段访问皮肤站的IP和进我的世界服务器的IP不对，就会被t不让进

@@ -5,7 +5,7 @@ sidebar_position: 7
 # VPS服务器购买
 
 ## 服务器价格表
-![服务器价格表](/img/vlssuskin/vps.png)
+![服务器价格表](./img/vps.png)
 
 ## 你可以通过[**[QQ咨询]**](https://wpa.qq.com/msgrd?v=3&uin=1305300729&site)来联系我购买
 ## 服务器购买后附赠内容

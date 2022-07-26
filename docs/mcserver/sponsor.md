@@ -17,7 +17,7 @@ sidebar_position: 6
 :::tip
 QQ、微信（WeChat）、支付宝（Alipay）
 
-![An image](/img/mcserver/image.png)
+![An image](./img/image.png)
 :::
 
 [使用PayPal来赞助](https://paypal.me/vlssu1?country.x=C2\&locale.x=zh\_XC)
