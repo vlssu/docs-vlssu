@@ -11,7 +11,6 @@ const url = (preview && env.VERCEL_URL) || "https://docs.vlssu.com";
 
 const docsCommon: Options = {
   breadcrumbs: true,
-  editUrl: ({ docPath }) => `https://github.com/vlssu/docs.vlssu.com/blob/master/docs/${docPath}`,
   editCurrentVersion: true,
   remarkPlugins: [remarkA11yEmoji],
   showLastUpdateAuthor: true,
@@ -67,6 +66,7 @@ const config: Config = {
         path: "docs/vlssuskin",
         routeBasePath: "vlssuskin",
         sidebarPath: require.resolve("./config/sidebar.vlssuskin"),
+        editUrl: ({ docPath }) => `https://github.com/vlssu/docs.vlssu.com/blob/master/docs/vlssuskin/${docPath}`,
       },
     ],
     [
@@ -77,6 +77,7 @@ const config: Config = {
         path: "docs/mcserver",
         routeBasePath: "mcserver",
         sidebarPath: require.resolve("./config/sidebar.mcserver"),
+        editUrl: ({ docPath }) => `https://github.com/vlssu/docs.vlssu.com/blob/master/docs/mcserver/${docPath}`,
       },
     ],
     [
