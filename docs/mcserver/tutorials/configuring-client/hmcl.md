@@ -13,6 +13,9 @@ sidebar_position: 2
 
 :::tip
 点击左下角的「添加认证服务器」，输入 VlssuSkin 的 Yggdrasil API 地址，点击「下一步」，等待识别出 VlssuSkin 的 Yggdrasil 后点击「完成」。 如果你曾经添加过 VlssuSkin 的 Yggdrasil，你也可以在「添加账户」菜单中直接选择 VlssuSkin。
+```
+https://skin.vlssu.com/api/yggdrasil
+```
 :::
 
 ![An image](/img/mcserver/HMCLR2.png)
