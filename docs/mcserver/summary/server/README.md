@@ -36,16 +36,9 @@ sidebar_position: 1
 服务器各服文档
 :::
 
-[登录大厅](./login.md)
+```mdx-code-block
+import DocCardList from '@theme/DocCardList';
+import {useCurrentSidebarCategory} from '@docusaurus/theme-common';
 
-[生存服务器](./survive.md)
-
-[创造服务器](./creative.md)
-
-[空岛服务器](./bskyblock.md)
-
-[快照服务器](./beta-survive.md)
-
-[模组服务器](./mod-server.md)
-
-[模组生存服](./bmss.md)
+<DocCardList items={useCurrentSidebarCategory().items}/>
+```
