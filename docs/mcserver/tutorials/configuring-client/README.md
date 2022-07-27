@@ -16,8 +16,9 @@ description: 客户端也是一个重灾区，我将会在这里列举在这
 https://skin.vlssu.com/api/yggdrasil
 ```
 
-[正版启动器](./minecraft-launcher.md)
+```mdx-code-block
+import DocCardList from '@theme/DocCardList';
+import {useCurrentSidebarCategory} from '@docusaurus/theme-common';
 
-[HMCL启动器](./hmcl.md)
-
-[PCL启动器](./pcl.md)
+<DocCardList items={useCurrentSidebarCategory().items}/>
+```
