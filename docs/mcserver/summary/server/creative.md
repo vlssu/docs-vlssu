@@ -16,7 +16,10 @@ sidebar_position: 3
 
 ## 地皮指令
 
-:::tip `/plotme` 可以用 `/p` 代替
+:::tip 
+`/plotme` 可以用 `/p` 代替
+:::
+
 | 指令 | 作用 |
 | -------------- | -------------- |
 |`/plotme claim`|领取所在地皮|
@@ -51,7 +54,6 @@ sidebar_position: 3
 |`/plotme biomelist`|列出可设置地形|
 |`/plotme tp`|传送到某个地皮|
 |`/plotme id`|查看当前地皮的id和坐标|
-:::
 
 ## 如何获取创世神
 

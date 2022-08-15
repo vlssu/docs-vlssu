@@ -10,11 +10,10 @@ description: 客户端也是一个重灾区，我将会在这里列举在这
 
 :::caution
 #### 我们皮肤站的认证服务器地址
-:::
-
 ```
 https://skin.vlssu.com/api/yggdrasil
 ```
+:::
 
 ```mdx-code-block
 import DocCardList from '@theme/DocCardList';

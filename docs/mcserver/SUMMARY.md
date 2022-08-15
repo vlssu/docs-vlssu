@@ -35,7 +35,6 @@ sidebar_position: 2
 
 * [常见问题](faq.md)
 * [关于赞助](sponsor.md)
-  * [使用PayPal来赞助](https://paypal.me/vlssu1?country.x=C2\&locale.x=zh\_XC)
   * [VLssu公益服赞助列表](https://docs.qq.com/sheet/BqI21X2yZIht1J82GY3bbHaV3xitrv29OF2q2Ir8BG0Y6m4N1p7JDc3f29nG1wjiV81REN093S8jZb056WbJ0)
 * [服务器宣传片](https://www.bilibili.com/video/BV1yb411J7zw?zw)
 * [服务器整合包](https://cloud.vlssu.com/s/ZNCW)
