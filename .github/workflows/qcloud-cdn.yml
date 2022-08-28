@@ -1,4 +1,4 @@
-name: GitHub pages
+name: 腾讯云CDN刷新缓存和SSL
 on: push
 jobs:
   deploy-to-qcloud-cdn:
