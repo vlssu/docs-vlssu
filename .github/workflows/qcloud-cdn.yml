@@ -5,6 +5,13 @@ jobs:
     name: Deploy certificate to Tencent Cloud CDN
     runs-on: ubuntu-latest
     steps:
+      - name: 刷新缓存
+        uses: keithnull/tencent-cloud-cdn-purge-cache@v1.0
+        env:
+          SECRET_ID: ${{ secrets.QCLOUD_SECRET_ID}}
+          SECRET_KEY: ${{ secrets.QCLOUD_SECRET_KEY }}
+          PATHS: "https://docs.vlssu.com/"
+          FLUSH_TYPE: "flush" # optional
       - name: Check out
         uses: actions/checkout@v2
         with:
@@ -25,9 +32,3 @@ jobs:
           # Deploy to CDN
           cdn-domains: |
             docs.vlssu.com
-      - uses: keithnull/tencent-cloud-cdn-purge-cache@v1.0
-        env:
-          SECRET_ID: ${{ secrets.QCLOUD_SECRET_ID}}
-          SECRET_KEY: ${{ secrets.QCLOUD_SECRET_KEY }}
-          PATHS: "https://docs.vlssu.com/"
-          FLUSH_TYPE: "flush" # optional
