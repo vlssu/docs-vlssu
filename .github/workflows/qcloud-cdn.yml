@@ -1,8 +1,8 @@
-name: 腾讯云CDN刷新缓存和SSL
+name: 腾讯云CDN刷新缓存
 on: push
 jobs:
   deploy-to-qcloud-cdn:
-    name: Deploy certificate to Tencent Cloud CDN
+    name: Tencent Cloud CDN Purge Cache
     runs-on: ubuntu-latest
     steps:
       - name: 刷新缓存
@@ -12,24 +12,3 @@ jobs:
           SECRET_KEY: ${{ secrets.QCLOUD_SECRET_KEY }}
           PATHS: "https://docs.vlssu.com/"
           FLUSH_TYPE: "flush" # optional
-      - name: Check out
-        uses: actions/checkout@v2
-        with:
-          # If you just commited and pushed your newly issued certificate to this repo in a previous job,
-          # use `ref` to make sure checking out the newest commit in this job
-          ref: ${{ github.ref }}
-      - name: 上传SSL证书
-        uses: renbaoshuo/deploy-certificate-to-tencentcloud@beta-v2
-        with:
-          # Use Access Key
-          secret-id: ${{ secrets.QCLOUD_SECRET_ID }}
-          secret-key: ${{ secrets.QCLOUD_SECRET_KEY }}
-
-          # Specify PEM fullchain file
-          fullchain-file: ${{ env.FILE_FULLCHAIN }}
-          # Specify PEM private key file
-          key-file: ${{ env.FILE_KEY }}
-
-          # Deploy to CDN
-          cdn-domains: |
-            docs.vlssu.com
