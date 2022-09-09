@@ -39,6 +39,7 @@ sidebar_position: 2
 | /time       |               | 查看服务器时间      |
 | /helpop     |               | 向在线管理员求助     |
 | /worth      |               | 查询手持物品的价值    |
+| /rt         |               | 随机传送    |
 
 ### 普通指令
 
