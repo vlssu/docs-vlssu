@@ -5,6 +5,10 @@ sidebar_position: 3
 # PCL启动器
 以下以 [PCL 2](https://afdian.net/@LTCat) 为例，演示在 Minecraft 客户端中使用 Yggdrasil
 
+:::tip 小小的建议
+我们非常不推荐 PCL 启动器，他有很多反人类设计，使用体验可能不是非常好的，建议使用其他的启动器。
+:::
+
 :::tip
 打开 PCL 2 的「版本设置」界面。如果这是你第一次打开 PCL 2，请先下载你想玩的版本(或服务器所需版本)
 :::
@@ -27,6 +31,10 @@ sidebar_position: 3
 ```
 
 ![An image](./img/pcl2.jpg)
+
+:::tip
+在新版 PCL 这里左下角会有「设置为 Little Skin」，**请不要点击，直接左上角点返回即可**。
+:::
 
 :::tip
 设置好后主页不出意外已经自动变成VlssuSkin设置界面了，在下方填写你的邮箱和密码。「账户」即为你在 VlssuSkin 的账号的邮箱。
