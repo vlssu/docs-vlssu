@@ -70,7 +70,7 @@ https://skin.vlssu.com/api/yggdrasil
 以下以 PCL 2 为例，演示在 Minecraft 客户端中使用 Yggdrasil。
 
 :::tip 小小的建议
-我们非常不推荐 PCL 启动器，他有很多反人类设计，使用体验可能不是非常好的，建议使用其他的启动器。
+该启动器可能存在反人类设计或其他一些原因，在此我们不太推荐使用此启动器，建议使用其他启动器。**如果您觉得此提示不当，请无视此提示。**
 :::
 
 1. 打开 PCL 2 的「版本设置」界面。如果这是你第一次打开 PCL 2，请先下载你想玩的版本(或服务器所需版本)。
@@ -108,21 +108,28 @@ https://skin.vlssu.com/api/yggdrasil
 
 ![An image](./img/y8.png)
 
-2. 需要先下载 `authlib-injector.jar` [【点击下载】](https://authlib-injector.yushi.moe/~download/)并放在你的游戏文件的根目录也就是 `.minecraft` 文件夹里（实际随你放哪）
+2. 需要先下载 [`authlib-injector.jar`](https://authlib-injector.yushi.moe/~download/) 并放在你的游戏文件的根目录也就是 `.minecraft` 文件夹里（实际随你放哪）
 
 ![An image](./img/y9.png)
 
 3. 然后打开正版启动器的JVM参数进行设置
 
-```
+<Tabs>
+<TabItem value="设置参数" label="设置参数">
+
+```js
 -javaagent:{绝对位置\authlib-injector.jar}=https://skin.vlssu.com/api/yggdrasil
 ```
 
-- 这是我的参数，仅供参考
+</TabItem>
+<TabItem value="这是我的参数" label="这是我的参数">
 
+```js
+-javaagent:C:\Users\vlssu\AppData\Roaming\.minecraft\authlib-injector.jar=https://skin.vlssu.com/api/yggdrasil -Xmx8G -XX:+UnlockExperimentalVMOptions -XX:+UseG1GC -XX:G1NewSizePercent=20 -XX:G1ReservePercent=20 -XX:MaxGCPauseMillis=50 -XX:G1HeapRegionSize=32M
 ```
--javaagent:C:\Users\cmy13\AppData\Roaming\.minecraft\authlib-injector.jar=https://skin.vlssu.com/api/yggdrasil -Xmx8G -XX:+UnlockExperimentalVMOptions -XX:+UseG1GC -XX:G1NewSizePercent=20 -XX:G1ReservePercent=20 -XX:MaxGCPauseMillis=50 -XX:G1HeapRegionSize=32M
-```
+
+</TabItem>
+</Tabs>
 
 ![An image](./img/y10.png)
 
