@@ -100,7 +100,7 @@ https://skin.vlssu.com/api/yggdrasil
 
 ![An image](./img/y8.png)
 
-2. 需要先下载`authlib-injector.jar`[【点击下载】](https://authlib-injector.yushi.moe/~download/)[【备用下载】](https://www.lanzous.com/i4mzbqd)并放在你的游戏文件的根目录也就是`.minecraft`文件夹里（实际随你放哪）
+2. 需要先下载 `authlib-injector.jar` [【点击下载】](https://authlib-injector.yushi.moe/~download/)并放在你的游戏文件的根目录也就是 `.minecraft` 文件夹里（实际随你放哪）
 
 ![An image](./img/y9.png)
 
