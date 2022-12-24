@@ -90,6 +90,10 @@ https://skin.vlssu.com/api/yggdrasil
 
 ![](./img/y7.png)
 
+:::tip
+在新版 PCL 这里左下角会有「设置为 Little Skin」，**请不要点击，直接左上角点返回即可**。
+:::
+
 4. 设置完成啦！你可以直接点「启动游戏」了，账户会直接登录。
 
 ### 正版 启动器示例
