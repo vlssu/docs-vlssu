@@ -114,6 +114,9 @@ https://skin.vlssu.com/api/yggdrasil
 
 3. 然后打开正版启动器的JVM参数进行设置
 
+import Tabs from '@theme/Tabs';
+import TabItem from '@theme/TabItem';
+
 <Tabs>
 <TabItem value="设置参数" label="设置参数">
 
