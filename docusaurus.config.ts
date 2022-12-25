@@ -4,10 +4,12 @@ import isCI from "is-ci";
 import navbar from "./config/navbar.config";
 import footer from "./config/footer.config";
 import { env } from "process";
+import { Config } from "@docusaurus/types";
+import { Options } from "@docusaurus/plugin-content-docs";
 
 const preview = env.VERCEL_ENV === "preview";
 
-const url = (preview && env.VERCEL_URL) || "https://docs.vlssu.com";
+const url = (preview && `https://${env.VERCEL_URL}`) || "https://docs.vlssu.com";
 
 const docsCommon: Options = {
   breadcrumbs: true,
@@ -25,12 +27,15 @@ const config: Config = {
   baseUrl: "/",
   onBrokenLinks: isCI ? "throw" : "warn",
   onBrokenMarkdownLinks: isCI ? "throw" : "warn",
-  onDuplicateRoutes: isCI ? "throw" : "error",
+  onDuplicateRoutes: isCI ? "throw" : "warn",
   favicon: "img/favicon.ico",
   trailingSlash: false,
   noIndex: preview,
   baseUrlIssueBanner: false,
-  clientModules: [require.resolve("../src/css/custom.css")],
+  clientModules: [
+    require.resolve("../src/css/custom.css"),
+    require.resolve("@fontsource/jetbrains-mono/index.css"),
+  ],
 
   i18n: {
     defaultLocale: "zh-Hans",
@@ -47,15 +52,29 @@ const config: Config = {
     }),
   },
 
-  themes: [
-    [
-      "classic",
-      {
-        respectPrefersColorScheme: true,
-      },
-    ],
-    "@docusaurus/theme-search-algolia",
+  headTags: [
+    {
+      tagName: "script",
+        attributes: {
+          type: "application/ld+json",
+        },
+        innerHTML: JSON.stringify({
+          "@context": "https://schema.org",
+          "@type": "WebSite",
+          url,
+          potentialAction: {
+            "@type": "SearchAction",
+            target: {
+              "@type": "EntryPoint",
+              urlTemplate: `${url}/search?q={search_term_string}`,
+            },
+            "query-input": "required name=search_term_string",
+          },
+        }),
+    },
   ],
+  
+  themes: ["@docusaurus/theme-classic", "@docusaurus/theme-search-algolia"],
 
   plugins: [
     [
@@ -109,35 +128,6 @@ const config: Config = {
         ],
       },
     ],
-    () => ({
-      name: "docusaurus-plugin-custom-tags",
-
-      injectHtmlTags() {
-        return {
-          headTags: [
-            {
-              tagName: "script",
-              attributes: {
-                type: "application/ld+json",
-              },
-              innerHTML: JSON.stringify({
-                "@context": "https://schema.org",
-                "@type": "WebSite",
-                url: url,
-                potentialAction: {
-                  "@type": "SearchAction",
-                  target: {
-                    "@type": "EntryPoint",
-                    urlTemplate: `${url}/search?q={search_term_string}`,
-                  },
-                  "query-input": "required name=search_term_string",
-                },
-              }),
-            },
-          ],
-        };
-      },
-    }),
     [
       "@docusaurus/plugin-sitemap",
       {
