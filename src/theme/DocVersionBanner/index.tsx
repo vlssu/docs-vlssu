@@ -131,7 +131,7 @@ function DocVersionBannerEnabled({
       role="alert"
     >
       <div>
-        {/* vlssu/docs.vlssu.com - siteTitle is hijacked and changed to id of docs plugin (good enough, best I have. not adding a whole `name` property to content-docs) */}
+        {/* vlssu/docs-vlssu - siteTitle is hijacked and changed to id of docs plugin (good enough, best I have. not adding a whole `name` property to content-docs) */}
         <BannerLabel
           siteTitle={pluginId.charAt(0).toUpperCase() + pluginId.slice(1).toLowerCase()}
           versionMetadata={versionMetadata}

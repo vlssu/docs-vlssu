@@ -29,7 +29,7 @@ const navbar: Omit<Navbar, "style" | "hideOnScroll"> = {
       position: "right",
     },
     {
-      href: "https://github.com/vlssu/docs.vlssu.com",
+      href: "https://github.com/vlssu/docs-vlssu",
       className: "header-icon-link header-github-link",
       position: "right",
     },

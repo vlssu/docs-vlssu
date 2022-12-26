@@ -73,7 +73,7 @@ function DropdownNavbarItemDesktop({
         role="button"
         href={props.to ? undefined : "#"}
         className={clsx("navbar__link", className)}
-        activeClassName="navbar__link--active" // vlssu/docs.vlssu.com - show as active when active
+        activeClassName="navbar__link--active" // vlssu/docs-vlssu - show as active when active
         {...props}
         onClick={props.to ? undefined : (e) => e.preventDefault()}
         onKeyDown={(e) => {
