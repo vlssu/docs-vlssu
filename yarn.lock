@@ -1946,6 +1946,21 @@ __metadata:
   languageName: node
   linkType: hard
 
+"@docusaurus/plugin-google-gtag@npm:2.2.0":
+  version: 2.2.0
+  resolution: "@docusaurus/plugin-google-gtag@npm:2.2.0"
+  dependencies:
+    "@docusaurus/core": 2.2.0
+    "@docusaurus/types": 2.2.0
+    "@docusaurus/utils-validation": 2.2.0
+    tslib: ^2.4.0
+  peerDependencies:
+    react: ^16.8.4 || ^17.0.0
+    react-dom: ^16.8.4 || ^17.0.0
+  checksum: 4e7d6fcc3f30f1d54933fdeb59d3065989596e91940304965635867808d89c7b864a394f5fab2bcde98037539bf6840efc692e856fb7a4ae32ce8b5f8a4e191a
+  languageName: node
+  linkType: hard
+
 "@docusaurus/plugin-pwa@npm:2.2.0":
   version: 2.2.0
   resolution: "@docusaurus/plugin-pwa@npm:2.2.0"
@@ -4990,6 +5005,7 @@ __metadata:
     "@docusaurus/plugin-content-docs": 2.2.0
     "@docusaurus/plugin-content-pages": 2.2.0
     "@docusaurus/plugin-debug": 2.2.0
+    "@docusaurus/plugin-google-gtag": 2.2.0
     "@docusaurus/plugin-pwa": 2.2.0
     "@docusaurus/plugin-sitemap": 2.2.0
     "@docusaurus/theme-classic": 2.2.0

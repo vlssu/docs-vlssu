@@ -74,18 +74,6 @@ const config: Config = {
     },
   ],
   
-  presets: [
-    [
-      '@docusaurus/preset-classic',
-      {
-        gtag: {
-          trackingID: 'G-MSHH5BD64K',
-          anonymizeIP: true,
-        },
-      },
-    ],
-  ],
-  
   themes: ["@docusaurus/theme-classic", "@docusaurus/theme-search-algolia"],
 
   plugins: [
@@ -147,6 +135,13 @@ const config: Config = {
       },
     ],
     "@docusaurus/plugin-debug",
+    [
+      '@docusaurus/plugin-google-gtag',
+      {
+        trackingID: 'G-MSHH5BD64K',
+        anonymizeIP: true,
+      },
+    ],
   ],
 
   themeConfig: {
