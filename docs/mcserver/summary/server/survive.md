@@ -53,7 +53,4 @@ sidebar_position: 2
 | /workbench  |    | 打开随身工作台         |
 | /wb         |    |                 |
 | /ender      |    | 打开随身末影箱         |
-| /chestsort  |    | 启用或关闭自动整理箱子     |
-| /sort       |    |                 |
-| /invsort    |    | 整理玩家背包（不包括快捷栏）  |
-| /isort      |    |                 |
+| /sell      |  (all/blocks/Hand/gui/same)  | 出售手中物品/整个背包的物品/仅可出售的方块    |
