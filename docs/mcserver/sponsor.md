@@ -12,10 +12,6 @@ sidebar_position: 6
 
 :::tip
 可以使用QQ、微信（WeChat）、支付宝（Alipay）赞助，赞助时请备注您的游戏ID！
-:::
-
-:::tip
-QQ、微信（WeChat）、支付宝（Alipay）
 
 ![An image](./img/image.png)
 :::
