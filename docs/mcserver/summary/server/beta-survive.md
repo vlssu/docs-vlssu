@@ -4,8 +4,13 @@ sidebar_position: 5
 
 # 快照服务器
 
+:::caution
+该服务器只能皮肤站登录
+:::
 :::tip
 快照服服务器我们会实时跟进最新的快照版本
+
+IP: beta.vlssu.cn
 :::
 
 :::caution
