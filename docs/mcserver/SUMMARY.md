@@ -15,8 +15,9 @@ sidebar_position: 2
 * [JAVA进服地址](summary/java-summary.md)
 * [PE/BE/基岩版进服地址](summary/pe-summary.md)
 
-## [各服说明](summary/server/README.md)
+## 各服说明
 
+* [**注意事项***](summary/server/README.md)
 * [登陆大厅](summary/server/login.md)
 * [生存服务器](summary/server/survive.md)
 * [创造服务器](summary/server/creative.md)
