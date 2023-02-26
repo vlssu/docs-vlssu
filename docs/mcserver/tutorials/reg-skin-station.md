@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# 如何注册皮肤站
+# 注册皮肤站
 
 [VLssuSkin皮肤站](https://skin.vlssu.com)
 

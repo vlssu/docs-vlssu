@@ -4,23 +4,16 @@ sidebar_position: 2
 
 # 目录
 
-* [欢迎游玩我们的服务器](README.md)
-* [QQ群 - VLssu公益服](https://jq.qq.com/?\_wv=1027\&k=0anjDlw3)
-* [VLssuSkin皮肤站](https://skin.vlssu.com)
-
-***
-
 ## 游玩流程
 
-* [如何注册皮肤站](tutorials/reg-skin-station.md)
-* [如何配置客户端](tutorials/configuring-client/README.md)
+* [注册皮肤站](tutorials/reg-skin-station.md)
+* [配置客户端](tutorials/configuring-client/README.md)
   * [正版启动器](tutorials/configuring-client/minecraft-launcher.md)
   * [HMCL启动器](tutorials/configuring-client/hmcl.md)
   * [PCL启动器](tutorials/configuring-client/pcl.md)
   * [PE/BE/基岩版进入方法](tutorials/configuring-client/pe.md)
 * [JAVA进服地址](summary/java-summary.md)
 * [PE/BE/基岩版进服地址](summary/pe-summary.md)
-  * [基岩版进服直链](minecraft://?addExternalServer=Vlssu%20Server%7Cmc.vlssu.cn:19132)
 
 ## [各服说明](summary/server/README.md)
 
@@ -35,6 +28,6 @@ sidebar_position: 2
 
 * [常见问题](faq.md)
 * [关于赞助](sponsor.md)
-  * [VLssu公益服赞助列表](https://docs.qq.com/sheet/BqI21X2yZIht1J82GY3bbHaV3xitrv29OF2q2Ir8BG0Y6m4N1p7JDc3f29nG1wjiV81REN093S8jZb056WbJ0)
 * [服务器宣传片](https://www.bilibili.com/video/BV1yb411J7zw?zw)
 * [服务器整合包](https://cloud.vlssu.com/s/ZNCW)
+* [VLssuSkin皮肤站](https://skin.vlssu.com)
