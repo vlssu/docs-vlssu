@@ -3,10 +3,12 @@ sidebar_position: 1
 ---
 
 # 正版启动器
+(此方法在新版正版启动器中失效了，请改用HMCL或其他启动器)
+
 以下以 [Minecraft Launcher](https://www.minecraft.net/zh-hans/download) 为例，演示在 Minecraft 客户端中使用 Yggdrasil
 
 :::tip
-首先你得是正版，然后再皮肤站绑定正版，如发现进不去，可以去皮肤站的[**个人资料**](https://skin.vlssu.com/user/profile)右上角进行更新**UUID**
+首先你得是正版，然后再皮肤站绑定正版，如发现进不去，可以去皮肤站的[**个人资料**](https://skin.vlssu.com/user/profile)右上角进行更新**UUID**（如果没有则站点已帮你自动同步更新）
 :::
 
 ![An image](./img/ml1.jpg)
