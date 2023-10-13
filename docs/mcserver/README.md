@@ -22,9 +22,9 @@ sidebar_position: 1
 可能你会觉得让我麻烦一点点都是好的。。。或许你可以试试对我们的影响有多大
 :::
 
-[JAVA进服地址](./summary/java-summary.md)
+[JAVA进服地址](./summary/java.md)
 
-[PE/BE/基岩版进服地址](./summary/pe-summary.md)
+[PE/BE/基岩版进服地址](./summary/pe.md)
 
 ## VLssu服务器历史线
 或许不全，但能大致了解

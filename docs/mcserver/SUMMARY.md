@@ -12,8 +12,8 @@ sidebar_position: 2
   * [HMCL启动器](tutorials/configuring-client/hmcl.md)
   * [PCL启动器](tutorials/configuring-client/pcl.md)
   * [PE/BE/基岩版进入方法](tutorials/configuring-client/pe.md)
-* [JAVA进服地址](summary/java-summary.md)
-* [PE/BE/基岩版进服地址](summary/pe-summary.md)
+* [JAVA进服地址](summary/java.md)
+* [PE/BE/基岩版进服地址](summary/pe.md)
 
 ## 各服说明
 
