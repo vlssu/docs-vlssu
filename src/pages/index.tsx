@@ -25,7 +25,7 @@ export default function Home(): JSX.Element {
   const { description } = customFields as { description: string };
 
   return (
-    <Layout title="Home" description={description}>
+    <Layout title="主页" description={description}>
       <HomepageHeader />
       <section className="homePageSearch">
         <SearchBar />

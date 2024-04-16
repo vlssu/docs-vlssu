@@ -1,5 +1,4 @@
 import remarkA11yEmoji from "@fec/remark-a11y-emoji";
-import vsDark from "prism-react-renderer/themes/vsDark";
 import isCI from "is-ci";
 import navbar from "./config/navbar.config";
 import footer from "./config/footer.config";
@@ -183,7 +182,6 @@ const config: Config = {
         "toml",
         "properties",
       ],
-      theme: vsDark,
     },
     algolia: {
       appId: "N7DOAH86MC",
