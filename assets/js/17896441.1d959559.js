@@ -404,6 +404,8 @@ function DocItemPaginator() {
   return /* @__PURE__ */ react.createElement(DocPaginator, { previous: metadata.previous, next: metadata.next });
 }
 
+// EXTERNAL MODULE: ./node_modules/.store/clsx-npm-2.1.1-96125b98be/node_modules/clsx/dist/clsx.mjs
+var dist_clsx = __webpack_require__(4531);
 // EXTERNAL MODULE: ./node_modules/.store/@docusaurus-core-virtual-26b69661b6/node_modules/@docusaurus/core/lib/client/exports/useDocusaurusContext.js
 var useDocusaurusContext = __webpack_require__(6468);
 // EXTERNAL MODULE: ./node_modules/.store/@docusaurus-plugin-content-docs-virtual-1508ac283f/node_modules/@docusaurus/plugin-content-docs/lib/client/index.js + 1 modules
@@ -499,7 +501,7 @@ function DocVersionBannerEnabled({
   return /* @__PURE__ */ react.createElement(
     "div",
     {
-      className: (0,clsx/* default */.A)(
+      className: (0,dist_clsx/* default */.A)(
         className,
         ThemeClassNames/* ThemeClassNames */.G.docs.docVersionBanner,
         "alert alert--warning margin-bottom--md"
