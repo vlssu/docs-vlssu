@@ -37,7 +37,7 @@ const metadata = {
   "tags": [],
   "version": "current",
   "lastUpdatedBy": "飒爽师叔",
-  "lastUpdatedAt": 1713231433000,
+  "lastUpdatedAt": 1715676156000,
   "sidebarPosition": 2,
   "frontMatter": {
     "sidebar_position": 2
@@ -88,7 +88,7 @@ function _createMdxContent(props) {
       type: "caution",
       children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)(_components.p, {
         children: ["基岩版版本为：", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.strong, {
-          children: "1.20.0 - 1.20.50"
+          children: "1.20.40/1.20.41 - 1.20.80/1.20.81"
         })]
       })
     }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.admonition, {

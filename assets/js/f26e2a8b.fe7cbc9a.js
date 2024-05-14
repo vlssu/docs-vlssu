@@ -37,7 +37,7 @@ const metadata = {
   "tags": [],
   "version": "current",
   "lastUpdatedBy": "飒爽师叔",
-  "lastUpdatedAt": 1701997906000,
+  "lastUpdatedAt": 1715676156000,
   "sidebarPosition": 4,
   "frontMatter": {
     "sidebar_position": 4
@@ -98,7 +98,7 @@ function _createMdxContent(props) {
       children: "首先进入QQ群或网盘中下载基岩版"
     }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)(_components.p, {
       children: ["当然你可以用自己的基岩版，版本需：", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.strong, {
-        children: "1.20.0 - 1.20.50"
+        children: "1.20.40/1.20.41 - 1.20.80/1.20.81"
       })]
     }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.p, {
       children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.a, {
