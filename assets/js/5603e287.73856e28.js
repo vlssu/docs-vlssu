@@ -22,10 +22,10 @@ __webpack_require__.r(__webpack_exports__);
 const frontMatter = {
 	sidebar_position: 5
 };
-const contentTitle = 'FCL';
+const contentTitle = 'FCL启动器';
 const metadata = {
   "id": "tutorials/configuring-client/fcl",
-  "title": "FCL",
+  "title": "FCL启动器",
   "description": "以下以 Fold Craft Launcher 为例，演示在手机上的 Minecraft 客户端中使用 Yggdrasil",
   "source": "@site/docs/mcserver/tutorials/configuring-client/fcl.md",
   "sourceDirName": "tutorials/configuring-client",
@@ -37,7 +37,7 @@ const metadata = {
   "tags": [],
   "version": "current",
   "lastUpdatedBy": "飒爽师叔",
-  "lastUpdatedAt": 1719416258000,
+  "lastUpdatedAt": 1719416458000,
   "sidebarPosition": 5,
   "frontMatter": {
     "sidebar_position": 5
@@ -83,8 +83,8 @@ function _createMdxContent(props) {
   };
   return (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)(react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.Fragment, {
     children: [(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.h1, {
-      id: "fcl",
-      children: "FCL"
+      id: "fcl启动器",
+      children: "FCL启动器"
     }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)(_components.p, {
       children: ["以下以 ", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.a, {
         href: "https://github.com/FCL-Team/FoldCraftLauncher",

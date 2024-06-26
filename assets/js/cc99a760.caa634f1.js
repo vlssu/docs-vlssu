@@ -44,7 +44,7 @@ const metadata = {
   },
   "sidebar": "primary",
   "previous": {
-    "title": "FCL",
+    "title": "FCL启动器",
     "permalink": "/mcserver/tutorials/configuring-client/fcl"
   },
   "next": {

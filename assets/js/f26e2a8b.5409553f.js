@@ -37,7 +37,7 @@ const metadata = {
   "tags": [],
   "version": "current",
   "lastUpdatedBy": "飒爽师叔",
-  "lastUpdatedAt": 1719416258000,
+  "lastUpdatedAt": 1719416458000,
   "sidebarPosition": 4,
   "frontMatter": {
     "sidebar_position": 4
@@ -48,7 +48,7 @@ const metadata = {
     "permalink": "/mcserver/tutorials/configuring-client/pcl"
   },
   "next": {
-    "title": "FCL",
+    "title": "FCL启动器",
     "permalink": "/mcserver/tutorials/configuring-client/fcl"
   }
 };
