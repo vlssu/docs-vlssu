@@ -1,9 +1,9 @@
 "use strict";
-exports.id = 6380;
-exports.ids = [6380];
+exports.id = 5645;
+exports.ids = [5645];
 exports.modules = {
 
-/***/ 3961:
+/***/ 1770:
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
 __webpack_require__.r(__webpack_exports__);
@@ -20,32 +20,36 @@ __webpack_require__.r(__webpack_exports__);
 
 
 const frontMatter = {
-	sidebar_position: 1
+	sidebar_position: 4
 };
-const contentTitle = '欢迎游玩我们的服务器';
+const contentTitle = 'PE/BE/基岩版';
 const metadata = {
-  "id": "README",
-  "title": "欢迎游玩我们的服务器",
-  "description": "QQ群 - VLssu公益服",
-  "source": "@site/docs/mcserver/README.md",
-  "sourceDirName": ".",
-  "slug": "/",
-  "permalink": "/mcserver/",
+  "id": "tutorials/configuring-client/pe",
+  "title": "PE/BE/基岩版",
+  "description": "(此方法在新版的转换程序中失效了，请改用FCL或其他启动器)",
+  "source": "@site/docs/mcserver/tutorials/configuring-client/pe.md",
+  "sourceDirName": "tutorials/configuring-client",
+  "slug": "/tutorials/configuring-client/pe",
+  "permalink": "/mcserver/tutorials/configuring-client/pe",
   "draft": false,
   "unlisted": false,
-  "editUrl": "https://github.com/vlssu/docs.vlssu.com/blob/master/docs/mcserver/README.md",
+  "editUrl": "https://github.com/vlssu/docs.vlssu.com/blob/master/docs/mcserver/tutorials/configuring-client/pe.md",
   "tags": [],
   "version": "current",
   "lastUpdatedBy": "飒爽师叔",
-  "lastUpdatedAt": 1719416458000,
-  "sidebarPosition": 1,
+  "lastUpdatedAt": 1719416851000,
+  "sidebarPosition": 4,
   "frontMatter": {
-    "sidebar_position": 1
+    "sidebar_position": 4
   },
   "sidebar": "primary",
+  "previous": {
+    "title": "PCL启动器",
+    "permalink": "/mcserver/tutorials/configuring-client/pcl"
+  },
   "next": {
-    "title": "目录",
-    "permalink": "/mcserver/SUMMARY"
+    "title": "FCL启动器",
+    "permalink": "/mcserver/tutorials/configuring-client/fcl"
   }
 };
 const assets = {
@@ -55,8 +59,20 @@ const assets = {
 
 
 const toc = [{
-  "value": "VLssu服务器历史线",
-  "id": "vlssu服务器历史线",
+  "value": "首先进入QQ群或网盘中下载基岩版",
+  "id": "首先进入qq群或网盘中下载基岩版",
+  "level": 2
+}, {
+  "value": "注册皮肤站账户",
+  "id": "注册皮肤站账户",
+  "level": 2
+}, {
+  "value": "添加服务器IP等信息",
+  "id": "添加服务器ip等信息",
+  "level": 2
+}, {
+  "value": "使用皮肤站账户登录",
+  "id": "使用皮肤站账户登录",
   "level": 2
 }];
 function _createMdxContent(props) {
@@ -67,55 +83,70 @@ function _createMdxContent(props) {
     h2: "h2",
     img: "img",
     p: "p",
+    strong: "strong",
     ...(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .useMDXComponents */ .R)(),
     ...props.components
   };
   return (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)(react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.Fragment, {
     children: [(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.h1, {
-      id: "欢迎游玩我们的服务器",
-      children: "欢迎游玩我们的服务器"
+      id: "pebe基岩版",
+      children: "PE/BE/基岩版"
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.p, {
+      children: "(此方法在新版的转换程序中失效了，请改用FCL或其他启动器)"
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.p, {
+      children: "这里讲述了基岩版该如何配置"
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.h2, {
+      id: "首先进入qq群或网盘中下载基岩版",
+      children: "首先进入QQ群或网盘中下载基岩版"
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)(_components.p, {
+      children: ["当然你可以用自己的基岩版，版本需：", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.strong, {
+        children: "1.20.40/1.20.41 - 1.20.80/1.20.81"
+      })]
     }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.p, {
       children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.a, {
         href: "https://jq.qq.com/?_wv=1027&k=0anjDlw3",
         children: "QQ群 - VLssu公益服"
       })
-    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.p, {
-      children: "本服务器为公益服，玩家物品丢失没有义务负责、但我们尽可能为你恢复"
-    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)(_components.admonition, {
-      type: "info",
-      children: [(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.p, {
-        children: "我们服务器还在不断完善，让我们一起建设美好的社区"
-      }), (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.p, {
-        children: "如果有什么意见或想法都可向我们提提出，可以进入我们的QQ群来提出你的建议"
-      }), (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.p, {
-        children: "也可以来我们的QQ群唠嗑哦~(有什么不会的也可以来群里提问，但请不要在百度中随便一查就能查到的过来问。。。)"
-      })]
-    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)(_components.admonition, {
-      type: "danger",
-      children: [(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.p, {
-        children: "最后！熊孩子你就省省心吧，你熊服务器，服务器不会有任何损失，服务器只要执行回档操作你的“努力”就会白费，而我只不过是一条代码、指令的事情。"
-      }), (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.p, {
-        children: "可能你会觉得让我麻烦一点点都是好的。。。或许你可以试试对我们的影响有多大"
-      })]
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.h2, {
+      id: "注册皮肤站账户",
+      children: "注册皮肤站账户"
     }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.p, {
       children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.a, {
-        href: "/mcserver/summary/java",
-        children: "JAVA进服地址"
-      })
-    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.p, {
-      children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.a, {
-        href: "/mcserver/tutorials/configuring-client/fcl",
-        children: "手机版进服方法"
+        href: "/mcserver/tutorials/reg-skin-station",
+        children: "如何注册皮肤站"
       })
     }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.h2, {
-      id: "vlssu服务器历史线",
-      children: "VLssu服务器历史线"
+      id: "添加服务器ip等信息",
+      children: "添加服务器IP等信息"
     }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.p, {
-      children: "或许不全，但能大致了解"
+      children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.a, {
+        href: "minecraft://?addExternalServer=Vlssu%20Server%7Cmc.vlssu.cn:19132",
+        children: "点此链接自动跳转基岩版客户端"
+      })
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.admonition, {
+      title: "如果链接失效可以手动输入",
+      type: "tip",
+      children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.p, {
+        children: "mc.vlssu.cn 端口默认即可（19132）"
+      })
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.h2, {
+      id: "使用皮肤站账户登录",
+      children: "使用皮肤站账户登录"
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.p, {
+      children: "在此之前请先登录微软账户，然后通过以上地址进入服务器后会出现以下内容，按照图中所示即可"
     }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.p, {
       children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.img, {
-        alt: "vlssu历史线 draw.io",
-        src: (__webpack_require__(1812)/* ["default"] */ .A) + ""
+        alt: "点击【使用Mojang账户登录】",
+        src: (__webpack_require__(8463)/* ["default"] */ .A) + "",
+        width: "1784",
+        height: "857"
+      })
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.p, {
+      children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.img, {
+        alt: "输入你注册的皮肤站账户即可进入",
+        src: (__webpack_require__(1200)/* ["default"] */ .A) + "",
+        width: "1716",
+        height: "857"
       })
     })]
   });
@@ -167,13 +198,23 @@ if (true) {
 
 /***/ }),
 
-/***/ 1812:
+/***/ 8463:
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
 /* harmony export */   A: () => (__WEBPACK_DEFAULT_EXPORT__)
 /* harmony export */ });
-/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "assets/images/vlssu历史线.drawio-9987d326965d6edcf0fb808530465a30.svg");
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "assets/images/pe1-3db37cf727398ffb895893bd381fa3e9.jpg");
+
+/***/ }),
+
+/***/ 1200:
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   A: () => (__WEBPACK_DEFAULT_EXPORT__)
+/* harmony export */ });
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "assets/images/pe2-c32615d4ee1e2c5cb4e833da39c87866.jpg");
 
 /***/ }),
 

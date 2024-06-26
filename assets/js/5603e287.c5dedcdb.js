@@ -37,7 +37,7 @@ const metadata = {
   "tags": [],
   "version": "current",
   "lastUpdatedBy": "飒爽师叔",
-  "lastUpdatedAt": 1719416458000,
+  "lastUpdatedAt": 1719416851000,
   "sidebarPosition": 5,
   "frontMatter": {
     "sidebar_position": 5
@@ -155,7 +155,7 @@ function _createMdxContent(props) {
     }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.admonition, {
       type: "tip",
       children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.p, {
-        children: "如果为英文可以点击左下角的地球，设置为简体中文，然后点击多人游戏添加我们的服务器IP（MC.VLSSU.CN）即可游玩服务器啦"
+        children: "如果为英文可以点击左下角的地球，设置为简体中文，然后点击多人游戏添加我们的服务器IP（MC.VLSSU.CN）即可游玩服务器啦（如果发现无法调出软键盘，在页面的正中间最上面有「input」既可调出）"
       })
     }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.h3, {
       id: "你可以畅玩服务器啦",

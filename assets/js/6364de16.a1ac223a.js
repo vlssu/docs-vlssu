@@ -1,9 +1,9 @@
 "use strict";
-exports.id = 478;
-exports.ids = [478];
+exports.id = 6380;
+exports.ids = [6380];
 exports.modules = {
 
-/***/ 5973:
+/***/ 3961:
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
 __webpack_require__.r(__webpack_exports__);
@@ -20,36 +20,32 @@ __webpack_require__.r(__webpack_exports__);
 
 
 const frontMatter = {
-	sidebar_position: 2
+	sidebar_position: 1
 };
-const contentTitle = 'PE/BE/基岩版进服地址';
+const contentTitle = '欢迎游玩我们的服务器';
 const metadata = {
-  "id": "summary/pe",
-  "title": "PE/BE/基岩版进服地址",
-  "description": "服务器现在不支持基岩版的进入，因为基岩版的转换程序不适应了",
-  "source": "@site/docs/mcserver/summary/pe.md",
-  "sourceDirName": "summary",
-  "slug": "/summary/pe",
-  "permalink": "/mcserver/summary/pe",
+  "id": "README",
+  "title": "欢迎游玩我们的服务器",
+  "description": "QQ群 - VLssu公益服",
+  "source": "@site/docs/mcserver/README.md",
+  "sourceDirName": ".",
+  "slug": "/",
+  "permalink": "/mcserver/",
   "draft": false,
   "unlisted": false,
-  "editUrl": "https://github.com/vlssu/docs.vlssu.com/blob/master/docs/mcserver/summary/pe.md",
+  "editUrl": "https://github.com/vlssu/docs.vlssu.com/blob/master/docs/mcserver/README.md",
   "tags": [],
   "version": "current",
   "lastUpdatedBy": "飒爽师叔",
-  "lastUpdatedAt": 1719416458000,
-  "sidebarPosition": 2,
+  "lastUpdatedAt": 1719416851000,
+  "sidebarPosition": 1,
   "frontMatter": {
-    "sidebar_position": 2
+    "sidebar_position": 1
   },
   "sidebar": "primary",
-  "previous": {
-    "title": "JAVA进服地址",
-    "permalink": "/mcserver/summary/java"
-  },
   "next": {
-    "title": "各服说明",
-    "permalink": "/mcserver/summary/server/"
+    "title": "目录",
+    "permalink": "/mcserver/SUMMARY"
   }
 };
 const assets = {
@@ -59,77 +55,68 @@ const assets = {
 
 
 const toc = [{
-  "value": "基岩版进服直链",
-  "id": "基岩版进服直链",
-  "level": 4
+  "value": "VLssu服务器历史线",
+  "id": "vlssu服务器历史线",
+  "level": 2
 }];
 function _createMdxContent(props) {
   const _components = {
     a: "a",
     admonition: "admonition",
-    br: "br",
     h1: "h1",
-    h4: "h4",
-    li: "li",
+    h2: "h2",
+    img: "img",
     p: "p",
-    strong: "strong",
-    ul: "ul",
     ...(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .useMDXComponents */ .R)(),
     ...props.components
   };
   return (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)(react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.Fragment, {
     children: [(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.h1, {
-      id: "pebe基岩版进服地址",
-      children: "PE/BE/基岩版进服地址"
-    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.admonition, {
-      type: "warning",
-      children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)(_components.p, {
-        children: ["服务器现在不支持基岩版的进入，因为基岩版的转换程序不适应了", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.br, {}), "\n", "但你可以选择", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.a, {
-          href: "/mcserver/tutorials/configuring-client/fcl",
-          children: "手机版的JAVA启动器来实现游玩服务器"
-        })]
-      })
-    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.p, {
-      children: "服务器版本为最新稳定版(实际与java服务器版本同步，因PE与PC同步后版本)"
-    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.admonition, {
-      title: "进服前请先注册皮肤站否则无法进入",
-      type: "caution",
-      children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)(_components.p, {
-        children: ["基岩版版本为：", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.strong, {
-          children: "1.20.40/1.20.41 - 1.20.80/1.20.81"
-        })]
-      })
-    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.admonition, {
-      title: "mc.vlssu.cn",
-      type: "tip",
-      children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)(_components.ul, {
-        children: ["\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.li, {
-          children: "端口默认即可（19132）"
-        }), "\n"]
-      })
-    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.h4, {
-      id: "基岩版进服直链",
-      children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.a, {
-        href: "minecraft://?addExternalServer=Vlssu%20Server%7Cmc.vlssu.cn:19132",
-        children: "基岩版进服直链"
-      })
+      id: "欢迎游玩我们的服务器",
+      children: "欢迎游玩我们的服务器"
     }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.p, {
       children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.a, {
-        href: "/mcserver/tutorials/configuring-client/pe",
-        children: "PE/BE/基岩版进入方法"
+        href: "https://jq.qq.com/?_wv=1027&k=0anjDlw3",
+        children: "QQ群 - VLssu公益服"
       })
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.p, {
+      children: "本服务器为公益服，玩家物品丢失没有义务负责、但我们尽可能为你恢复"
     }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)(_components.admonition, {
       type: "info",
-      children: [(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)(_components.p, {
-        children: ["由于个人技术问题，服务器的技术支持有限，所以我们只能尽量做好", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.br, {}), "\n", "此服务器是直通JAVA服务器的，所以，如果电脑不在旁边也可以来到我们服务器玩哦"]
-      }), (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)(_components.p, {
-        children: ["基岩版的安装包，放在了", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.strong, {
-          children: "群文件"
-        }), "中，当然你也可以在我们的 ", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.a, {
-          href: "https://zfile.vlssu.com/mc",
-          children: "网盘中下载"
-        })]
+      children: [(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.p, {
+        children: "我们服务器还在不断完善，让我们一起建设美好的社区"
+      }), (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.p, {
+        children: "如果有什么意见或想法都可向我们提提出，可以进入我们的QQ群来提出你的建议"
+      }), (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.p, {
+        children: "也可以来我们的QQ群唠嗑哦~(有什么不会的也可以来群里提问，但请不要在百度中随便一查就能查到的过来问。。。)"
       })]
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)(_components.admonition, {
+      type: "danger",
+      children: [(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.p, {
+        children: "最后！熊孩子你就省省心吧，你熊服务器，服务器不会有任何损失，服务器只要执行回档操作你的“努力”就会白费，而我只不过是一条代码、指令的事情。"
+      }), (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.p, {
+        children: "可能你会觉得让我麻烦一点点都是好的。。。或许你可以试试对我们的影响有多大"
+      })]
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.p, {
+      children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.a, {
+        href: "/mcserver/summary/java",
+        children: "JAVA进服地址"
+      })
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.p, {
+      children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.a, {
+        href: "/mcserver/tutorials/configuring-client/fcl",
+        children: "手机版进服方法"
+      })
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.h2, {
+      id: "vlssu服务器历史线",
+      children: "VLssu服务器历史线"
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.p, {
+      children: "或许不全，但能大致了解"
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.p, {
+      children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.img, {
+        alt: "vlssu历史线 draw.io",
+        src: (__webpack_require__(1812)/* ["default"] */ .A) + ""
+      })
     })]
   });
 }
@@ -177,6 +164,16 @@ if (true) {
   module.exports = __webpack_require__(2541);
 } else {}
 
+
+/***/ }),
+
+/***/ 1812:
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   A: () => (__WEBPACK_DEFAULT_EXPORT__)
+/* harmony export */ });
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "assets/images/vlssu历史线.drawio-9987d326965d6edcf0fb808530465a30.svg");
 
 /***/ }),
 

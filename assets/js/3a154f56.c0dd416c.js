@@ -1,9 +1,9 @@
 "use strict";
-exports.id = 5645;
-exports.ids = [5645];
+exports.id = 478;
+exports.ids = [478];
 exports.modules = {
 
-/***/ 1770:
+/***/ 5973:
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
 __webpack_require__.r(__webpack_exports__);
@@ -20,36 +20,36 @@ __webpack_require__.r(__webpack_exports__);
 
 
 const frontMatter = {
-	sidebar_position: 4
+	sidebar_position: 2
 };
-const contentTitle = 'PE/BE/基岩版';
+const contentTitle = 'PE/BE/基岩版进服地址';
 const metadata = {
-  "id": "tutorials/configuring-client/pe",
-  "title": "PE/BE/基岩版",
-  "description": "(此方法在新版的转换程序中失效了，请改用FCL或其他启动器)",
-  "source": "@site/docs/mcserver/tutorials/configuring-client/pe.md",
-  "sourceDirName": "tutorials/configuring-client",
-  "slug": "/tutorials/configuring-client/pe",
-  "permalink": "/mcserver/tutorials/configuring-client/pe",
+  "id": "summary/pe",
+  "title": "PE/BE/基岩版进服地址",
+  "description": "服务器现在不支持基岩版的进入，因为基岩版的转换程序不适应了",
+  "source": "@site/docs/mcserver/summary/pe.md",
+  "sourceDirName": "summary",
+  "slug": "/summary/pe",
+  "permalink": "/mcserver/summary/pe",
   "draft": false,
   "unlisted": false,
-  "editUrl": "https://github.com/vlssu/docs.vlssu.com/blob/master/docs/mcserver/tutorials/configuring-client/pe.md",
+  "editUrl": "https://github.com/vlssu/docs.vlssu.com/blob/master/docs/mcserver/summary/pe.md",
   "tags": [],
   "version": "current",
   "lastUpdatedBy": "飒爽师叔",
-  "lastUpdatedAt": 1719416458000,
-  "sidebarPosition": 4,
+  "lastUpdatedAt": 1719416851000,
+  "sidebarPosition": 2,
   "frontMatter": {
-    "sidebar_position": 4
+    "sidebar_position": 2
   },
   "sidebar": "primary",
   "previous": {
-    "title": "PCL启动器",
-    "permalink": "/mcserver/tutorials/configuring-client/pcl"
+    "title": "JAVA进服地址",
+    "permalink": "/mcserver/summary/java"
   },
   "next": {
-    "title": "FCL启动器",
-    "permalink": "/mcserver/tutorials/configuring-client/fcl"
+    "title": "各服说明",
+    "permalink": "/mcserver/summary/server/"
   }
 };
 const assets = {
@@ -59,95 +59,77 @@ const assets = {
 
 
 const toc = [{
-  "value": "首先进入QQ群或网盘中下载基岩版",
-  "id": "首先进入qq群或网盘中下载基岩版",
-  "level": 2
-}, {
-  "value": "注册皮肤站账户",
-  "id": "注册皮肤站账户",
-  "level": 2
-}, {
-  "value": "添加服务器IP等信息",
-  "id": "添加服务器ip等信息",
-  "level": 2
-}, {
-  "value": "使用皮肤站账户登录",
-  "id": "使用皮肤站账户登录",
-  "level": 2
+  "value": "基岩版进服直链",
+  "id": "基岩版进服直链",
+  "level": 4
 }];
 function _createMdxContent(props) {
   const _components = {
     a: "a",
     admonition: "admonition",
+    br: "br",
     h1: "h1",
-    h2: "h2",
-    img: "img",
+    h4: "h4",
+    li: "li",
     p: "p",
     strong: "strong",
+    ul: "ul",
     ...(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .useMDXComponents */ .R)(),
     ...props.components
   };
   return (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)(react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.Fragment, {
     children: [(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.h1, {
-      id: "pebe基岩版",
-      children: "PE/BE/基岩版"
-    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.p, {
-      children: "(此方法在新版的转换程序中失效了，请改用FCL或其他启动器)"
-    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.p, {
-      children: "这里讲述了基岩版该如何配置"
-    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.h2, {
-      id: "首先进入qq群或网盘中下载基岩版",
-      children: "首先进入QQ群或网盘中下载基岩版"
-    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)(_components.p, {
-      children: ["当然你可以用自己的基岩版，版本需：", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.strong, {
-        children: "1.20.40/1.20.41 - 1.20.80/1.20.81"
-      })]
-    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.p, {
-      children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.a, {
-        href: "https://jq.qq.com/?_wv=1027&k=0anjDlw3",
-        children: "QQ群 - VLssu公益服"
+      id: "pebe基岩版进服地址",
+      children: "PE/BE/基岩版进服地址"
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.admonition, {
+      type: "warning",
+      children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)(_components.p, {
+        children: ["服务器现在不支持基岩版的进入，因为基岩版的转换程序不适应了", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.br, {}), "\n", "但你可以选择", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.a, {
+          href: "/mcserver/tutorials/configuring-client/fcl",
+          children: "手机版的JAVA启动器来实现游玩服务器"
+        })]
       })
-    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.h2, {
-      id: "注册皮肤站账户",
-      children: "注册皮肤站账户"
     }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.p, {
-      children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.a, {
-        href: "/mcserver/tutorials/reg-skin-station",
-        children: "如何注册皮肤站"
-      })
-    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.h2, {
-      id: "添加服务器ip等信息",
-      children: "添加服务器IP等信息"
-    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.p, {
-      children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.a, {
-        href: "minecraft://?addExternalServer=Vlssu%20Server%7Cmc.vlssu.cn:19132",
-        children: "点此链接自动跳转基岩版客户端"
+      children: "服务器版本为最新稳定版(实际与java服务器版本同步，因PE与PC同步后版本)"
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.admonition, {
+      title: "进服前请先注册皮肤站否则无法进入",
+      type: "caution",
+      children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)(_components.p, {
+        children: ["基岩版版本为：", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.strong, {
+          children: "1.20.40/1.20.41 - 1.20.80/1.20.81"
+        })]
       })
     }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.admonition, {
-      title: "如果链接失效可以手动输入",
+      title: "mc.vlssu.cn",
       type: "tip",
-      children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.p, {
-        children: "mc.vlssu.cn 端口默认即可（19132）"
+      children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)(_components.ul, {
+        children: ["\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.li, {
+          children: "端口默认即可（19132）"
+        }), "\n"]
       })
-    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.h2, {
-      id: "使用皮肤站账户登录",
-      children: "使用皮肤站账户登录"
-    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.p, {
-      children: "在此之前请先登录微软账户，然后通过以上地址进入服务器后会出现以下内容，按照图中所示即可"
-    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.p, {
-      children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.img, {
-        alt: "点击【使用Mojang账户登录】",
-        src: (__webpack_require__(8463)/* ["default"] */ .A) + "",
-        width: "1784",
-        height: "857"
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.h4, {
+      id: "基岩版进服直链",
+      children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.a, {
+        href: "minecraft://?addExternalServer=Vlssu%20Server%7Cmc.vlssu.cn:19132",
+        children: "基岩版进服直链"
       })
     }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.p, {
-      children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.img, {
-        alt: "输入你注册的皮肤站账户即可进入",
-        src: (__webpack_require__(1200)/* ["default"] */ .A) + "",
-        width: "1716",
-        height: "857"
+      children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.a, {
+        href: "/mcserver/tutorials/configuring-client/pe",
+        children: "PE/BE/基岩版进入方法"
       })
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)(_components.admonition, {
+      type: "info",
+      children: [(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)(_components.p, {
+        children: ["由于个人技术问题，服务器的技术支持有限，所以我们只能尽量做好", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.br, {}), "\n", "此服务器是直通JAVA服务器的，所以，如果电脑不在旁边也可以来到我们服务器玩哦"]
+      }), (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)(_components.p, {
+        children: ["基岩版的安装包，放在了", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.strong, {
+          children: "群文件"
+        }), "中，当然你也可以在我们的 ", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.a, {
+          href: "https://zfile.vlssu.com/mc",
+          children: "网盘中下载"
+        })]
+      })]
     })]
   });
 }
@@ -195,26 +177,6 @@ if (true) {
   module.exports = __webpack_require__(2541);
 } else {}
 
-
-/***/ }),
-
-/***/ 8463:
-/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
-
-/* harmony export */ __webpack_require__.d(__webpack_exports__, {
-/* harmony export */   A: () => (__WEBPACK_DEFAULT_EXPORT__)
-/* harmony export */ });
-/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "assets/images/pe1-3db37cf727398ffb895893bd381fa3e9.jpg");
-
-/***/ }),
-
-/***/ 1200:
-/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
-
-/* harmony export */ __webpack_require__.d(__webpack_exports__, {
-/* harmony export */   A: () => (__WEBPACK_DEFAULT_EXPORT__)
-/* harmony export */ });
-/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "assets/images/pe2-c32615d4ee1e2c5cb4e833da39c87866.jpg");
 
 /***/ }),
 
