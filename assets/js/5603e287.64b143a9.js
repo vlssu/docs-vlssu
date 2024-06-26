@@ -1,9 +1,9 @@
 "use strict";
-exports.id = 5645;
-exports.ids = [5645];
+exports.id = 715;
+exports.ids = [715];
 exports.modules = {
 
-/***/ 1770:
+/***/ 8404:
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
 __webpack_require__.r(__webpack_exports__);
@@ -20,32 +20,32 @@ __webpack_require__.r(__webpack_exports__);
 
 
 const frontMatter = {
-	sidebar_position: 4
+	sidebar_position: 5
 };
-const contentTitle = 'PE/BE/基岩版';
+const contentTitle = 'FCL';
 const metadata = {
-  "id": "tutorials/configuring-client/pe",
-  "title": "PE/BE/基岩版",
-  "description": "这里讲述了基岩版该如何配置",
-  "source": "@site/docs/mcserver/tutorials/configuring-client/pe.md",
+  "id": "tutorials/configuring-client/fcl",
+  "title": "FCL",
+  "description": "以下以 Fold Craft Launcher 为例，演示在手机上的 Minecraft 客户端中使用 Yggdrasil",
+  "source": "@site/docs/mcserver/tutorials/configuring-client/fcl.md",
   "sourceDirName": "tutorials/configuring-client",
-  "slug": "/tutorials/configuring-client/pe",
-  "permalink": "/mcserver/tutorials/configuring-client/pe",
+  "slug": "/tutorials/configuring-client/fcl",
+  "permalink": "/mcserver/tutorials/configuring-client/fcl",
   "draft": false,
   "unlisted": false,
-  "editUrl": "https://github.com/vlssu/docs.vlssu.com/blob/master/docs/mcserver/tutorials/configuring-client/pe.md",
+  "editUrl": "https://github.com/vlssu/docs.vlssu.com/blob/master/docs/mcserver/tutorials/configuring-client/fcl.md",
   "tags": [],
   "version": "current",
   "lastUpdatedBy": "飒爽师叔",
-  "lastUpdatedAt": 1715676156000,
-  "sidebarPosition": 4,
+  "lastUpdatedAt": 1719416258000,
+  "sidebarPosition": 5,
   "frontMatter": {
-    "sidebar_position": 4
+    "sidebar_position": 5
   },
   "sidebar": "primary",
   "previous": {
-    "title": "PCL启动器",
-    "permalink": "/mcserver/tutorials/configuring-client/pcl"
+    "title": "PE/BE/基岩版",
+    "permalink": "/mcserver/tutorials/configuring-client/pe"
   },
   "next": {
     "title": "常见问题",
@@ -59,93 +59,107 @@ const assets = {
 
 
 const toc = [{
-  "value": "首先进入QQ群或网盘中下载基岩版",
-  "id": "首先进入qq群或网盘中下载基岩版",
-  "level": 2
+  "value": "设置完成啦！你可以启动游戏了",
+  "id": "设置完成啦你可以启动游戏了",
+  "level": 3
 }, {
-  "value": "注册皮肤站账户",
-  "id": "注册皮肤站账户",
-  "level": 2
-}, {
-  "value": "添加服务器IP等信息",
-  "id": "添加服务器ip等信息",
-  "level": 2
-}, {
-  "value": "使用皮肤站账户登录",
-  "id": "使用皮肤站账户登录",
-  "level": 2
+  "value": "你可以畅玩服务器啦",
+  "id": "你可以畅玩服务器啦",
+  "level": 3
 }];
 function _createMdxContent(props) {
   const _components = {
     a: "a",
     admonition: "admonition",
+    br: "br",
+    code: "code",
     h1: "h1",
-    h2: "h2",
+    h3: "h3",
     img: "img",
     p: "p",
-    strong: "strong",
+    pre: "pre",
     ...(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .useMDXComponents */ .R)(),
     ...props.components
   };
   return (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)(react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.Fragment, {
     children: [(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.h1, {
-      id: "pebe基岩版",
-      children: "PE/BE/基岩版"
-    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.p, {
-      children: "这里讲述了基岩版该如何配置"
-    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.h2, {
-      id: "首先进入qq群或网盘中下载基岩版",
-      children: "首先进入QQ群或网盘中下载基岩版"
+      id: "fcl",
+      children: "FCL"
     }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)(_components.p, {
-      children: ["当然你可以用自己的基岩版，版本需：", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.strong, {
-        children: "1.20.40/1.20.41 - 1.20.80/1.20.81"
-      })]
-    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.p, {
-      children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.a, {
-        href: "https://jq.qq.com/?_wv=1027&k=0anjDlw3",
-        children: "QQ群 - VLssu公益服"
-      })
-    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.h2, {
-      id: "注册皮肤站账户",
-      children: "注册皮肤站账户"
-    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.p, {
-      children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.a, {
-        href: "/mcserver/tutorials/reg-skin-station",
-        children: "如何注册皮肤站"
-      })
-    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.h2, {
-      id: "添加服务器ip等信息",
-      children: "添加服务器IP等信息"
-    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.p, {
-      children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.a, {
-        href: "minecraft://?addExternalServer=Vlssu%20Server%7Cmc.vlssu.cn:19132",
-        children: "点此链接自动跳转基岩版客户端"
-      })
+      children: ["以下以 ", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.a, {
+        href: "https://github.com/FCL-Team/FoldCraftLauncher",
+        children: "Fold Craft Launcher"
+      }), " 为例，演示在手机上的 Minecraft 客户端中使用 Yggdrasil"]
     }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.admonition, {
-      title: "如果链接失效可以手动输入",
       type: "tip",
       children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.p, {
-        children: "mc.vlssu.cn 端口默认即可（19132）"
-      })
-    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.h2, {
-      id: "使用皮肤站账户登录",
-      children: "使用皮肤站账户登录"
-    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.p, {
-      children: "在此之前请先登录微软账户，然后通过以上地址进入服务器后会出现以下内容，按照图中所示即可"
-    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.p, {
-      children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.img, {
-        alt: "点击【使用Mojang账户登录】",
-        src: (__webpack_require__(8463)/* ["default"] */ .A) + "",
-        width: "1784",
-        height: "857"
+        children: "打开 FCL 的「点击添加账户」界面。"
       })
     }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.p, {
       children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.img, {
-        alt: "输入你注册的皮肤站账户即可进入",
-        src: (__webpack_require__(1200)/* ["default"] */ .A) + "",
-        width: "1716",
-        height: "857"
+        alt: "An image",
+        src: (__webpack_require__(6213)/* ["default"] */ .A) + "",
+        width: "2800",
+        height: "1840"
       })
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)(_components.admonition, {
+      type: "tip",
+      children: [(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.p, {
+        children: "点击左下角的「认证服务器」，输入 VlssuSkin 的 Yggdrasil API 地址，点击「下一步」，等待识别出 VlssuSkin 的 Yggdrasil 后点击「完成」。 如果你曾经添加过 VlssuSkin 的 Yggdrasil，你也可以在「添加账户」菜单中直接选择 VlssuSkin。"
+      }), (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.pre, {
+        children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.code, {
+          children: "https://skin.vlssu.com/api/yggdrasil\n"
+        })
+      })]
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.p, {
+      children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.img, {
+        alt: "An image",
+        src: (__webpack_require__(9962)/* ["default"] */ .A) + "",
+        width: "2800",
+        height: "1840"
+      })
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.admonition, {
+      type: "tip",
+      children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.p, {
+        children: "在「添加账户」菜单中选择 VlssuSkin，填写你的邮箱和密码。「用户名」即为你在 VlssuSkin 的账号的邮箱。"
+      })
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.p, {
+      children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.img, {
+        alt: "An image",
+        src: (__webpack_require__(5799)/* ["default"] */ .A) + "",
+        width: "2800",
+        height: "1840"
+      })
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.p, {
+      children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.img, {
+        alt: "An image",
+        src: (__webpack_require__(9804)/* ["default"] */ .A) + "",
+        width: "2800",
+        height: "1840"
+      })
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.admonition, {
+      type: "tip",
+      children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)(_components.p, {
+        children: ["在「下载资源」菜单中选择你要下载的JAVA版本，如果不清楚下载什么版本可以查看服务器对应子服说明（当然可以下载当前最新稳定版）", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.br, {}), "\n", "如果你需要光影可自行点击optifine并安装（因设备原因，不是所有光影都能用），然后就可以点击下载名称旁的下载按钮"]
+      })
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.h3, {
+      id: "设置完成啦你可以启动游戏了",
+      children: "设置完成啦！你可以启动游戏了"
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.p, {
+      children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.img, {
+        alt: "An image",
+        src: (__webpack_require__(857)/* ["default"] */ .A) + "",
+        width: "2800",
+        height: "1840"
+      })
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.admonition, {
+      type: "tip",
+      children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.p, {
+        children: "如果为英文可以点击左下角的地球，设置为简体中文，然后点击多人游戏添加我们的服务器IP（MC.VLSSU.CN）即可游玩服务器啦"
+      })
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.h3, {
+      id: "你可以畅玩服务器啦",
+      children: "你可以畅玩服务器啦"
     })]
   });
 }
@@ -196,23 +210,53 @@ if (true) {
 
 /***/ }),
 
-/***/ 8463:
+/***/ 6213:
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
 /* harmony export */   A: () => (__WEBPACK_DEFAULT_EXPORT__)
 /* harmony export */ });
-/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "assets/images/pe1-3db37cf727398ffb895893bd381fa3e9.jpg");
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "assets/images/FCL1-ad99c27d142a39446126eb670c2aeb8d.jpg");
 
 /***/ }),
 
-/***/ 1200:
+/***/ 9962:
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
 /* harmony export */   A: () => (__WEBPACK_DEFAULT_EXPORT__)
 /* harmony export */ });
-/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "assets/images/pe2-c32615d4ee1e2c5cb4e833da39c87866.jpg");
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "assets/images/FCL2-6f6579262bbf1a619ebe5fb89a81a2f3.jpg");
+
+/***/ }),
+
+/***/ 5799:
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   A: () => (__WEBPACK_DEFAULT_EXPORT__)
+/* harmony export */ });
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "assets/images/FCL3-491dfdf928b5e6776873b0e05538d1fb.jpg");
+
+/***/ }),
+
+/***/ 9804:
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   A: () => (__WEBPACK_DEFAULT_EXPORT__)
+/* harmony export */ });
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "assets/images/FCL4-4dc96e039a61a5a748a27b63aff97396.jpg");
+
+/***/ }),
+
+/***/ 857:
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   A: () => (__WEBPACK_DEFAULT_EXPORT__)
+/* harmony export */ });
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "assets/images/FCL5-13fe375a70df6b4cf22ea7e00e813e23.jpg");
 
 /***/ }),
 

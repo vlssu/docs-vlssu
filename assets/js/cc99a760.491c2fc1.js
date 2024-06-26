@@ -44,8 +44,8 @@ const metadata = {
   },
   "sidebar": "primary",
   "previous": {
-    "title": "PE/BE/基岩版",
-    "permalink": "/mcserver/tutorials/configuring-client/pe"
+    "title": "FCL",
+    "permalink": "/mcserver/tutorials/configuring-client/fcl"
   },
   "next": {
     "title": "关于赞助",

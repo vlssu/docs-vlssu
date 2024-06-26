@@ -37,7 +37,7 @@ const metadata = {
   "tags": [],
   "version": "current",
   "lastUpdatedBy": "飒爽师叔",
-  "lastUpdatedAt": 1697180612000,
+  "lastUpdatedAt": 1719416258000,
   "sidebarPosition": 2,
   "frontMatter": {
     "sidebar_position": 2
@@ -114,8 +114,8 @@ function _createMdxContent(props) {
             })
           }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.li, {
             children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.a, {
-              href: "/mcserver/tutorials/configuring-client/pe",
-              children: "PE/BE/基岩版进入方法"
+              href: "/mcserver/tutorials/configuring-client/fcl",
+              children: "手机版进入方法"
             })
           }), "\n"]
         }), "\n"]
@@ -123,11 +123,6 @@ function _createMdxContent(props) {
         children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.a, {
           href: "/mcserver/summary/java",
           children: "JAVA进服地址"
-        })
-      }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.li, {
-        children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.a, {
-          href: "/mcserver/summary/pe",
-          children: "PE/BE/基岩版进服地址"
         })
       }), "\n"]
     }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.h2, {
