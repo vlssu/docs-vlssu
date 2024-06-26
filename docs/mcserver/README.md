@@ -24,7 +24,7 @@ sidebar_position: 1
 
 [JAVA进服地址](./summary/java.md)
 
-[PE/BE/基岩版进服地址](./summary/pe.md)
+[手机版进服方法](./tutorials/configuring-client/fcl.md)
 
 ## VLssu服务器历史线
 或许不全，但能大致了解

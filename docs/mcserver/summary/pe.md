@@ -4,6 +4,11 @@ sidebar_position: 2
 
 # PE/BE/基岩版进服地址
 
+:::warning
+服务器现在不支持基岩版的进入，因为基岩版的转换程序不适应了  
+但你可以选择[手机版的JAVA启动器来实现游玩服务器](../tutorials/configuring-client/fcl.md)
+:::
+
 服务器版本为最新稳定版(实际与java服务器版本同步，因PE与PC同步后版本)
 
 :::caution 进服前请先注册皮肤站否则无法进入
