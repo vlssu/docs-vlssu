@@ -1,5 +1,10 @@
 name: 腾讯云CDN刷新缓存
-on: push
+on:
+  workflow_run:
+    workflows: ["GitHub pages"]
+    types:
+      - completed
+
 jobs:
   deploy-to-qcloud-cdn:
     name: Tencent Cloud CDN Purge Cache
