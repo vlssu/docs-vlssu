@@ -46,6 +46,10 @@ const metadata = {
   "previous": {
     "title": "常见问题",
     "permalink": "/mcserver/faq"
+  },
+  "next": {
+    "title": "合照",
+    "permalink": "/mcserver/picture"
   }
 };
 const assets = {
