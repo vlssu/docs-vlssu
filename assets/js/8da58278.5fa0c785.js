@@ -37,7 +37,7 @@ const metadata = {
   "tags": [],
   "version": "current",
   "lastUpdatedBy": "飒爽师叔",
-  "lastUpdatedAt": 1719935502000,
+  "lastUpdatedAt": 1719938330000,
   "sidebarPosition": 7,
   "frontMatter": {
     "sidebar_position": 7
@@ -107,12 +107,17 @@ function _createMdxContent(props) {
         href: "https://jq.qq.com/?_wv=1027&k=5mq4JvN",
         children: "欢迎加入QQ群"
       }), "。"]
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)(_components.p, {
+      children: ["具体、详细、无损文件下载", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.a, {
+        href: "https://zfile.vlssu.com/mc/%E8%81%9A%E4%BC%9A%E5%9B%BE",
+        children: "点击此处"
+      })]
     }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.h3, {
       id: "聚会图1小镇",
       children: "聚会图1—小镇"
     }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.p, {
       children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.img, {
-        src: "/img/mcserver/VLssu%E5%85%AC%E7%9B%8A%E6%9C%8D_%E8%81%9A%E7%85%A7%E5%9B%BE_1_%E7%AC%AC%E5%9B%9B%E7%89%88.webp",
+        src: "/images/mcserver/VLssu%E5%85%AC%E7%9B%8A%E6%9C%8D_%E8%81%9A%E7%85%A7%E5%9B%BE_1_%E7%AC%AC%E5%9B%9B%E7%89%88.webp",
         alt: "聚会图1—小镇"
       })
     }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.admonition, {
@@ -126,10 +131,10 @@ function _createMdxContent(props) {
       children: "聚会图2—聚餐"
     }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)(_components.p, {
       children: [(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.img, {
-        src: "/img/mcserver/VLssu%E5%85%AC%E7%9B%8A%E6%9C%8D_%E8%81%9A%E7%85%A7%E5%9B%BE_2_%E7%AC%AC%E4%B8%80%E7%89%88.webp",
+        src: "/images/mcserver/VLssu%E5%85%AC%E7%9B%8A%E6%9C%8D_%E8%81%9A%E7%85%A7%E5%9B%BE_2_%E7%AC%AC%E4%B8%80%E7%89%88.webp",
         alt: "聚会图2—聚餐"
       }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.img, {
-        src: "/img/mcserver/VLssu%E5%85%AC%E7%9B%8A%E6%9C%8D_%E8%81%9A%E7%85%A7%E5%9B%BE_2_%E7%AC%AC%E4%BA%8C%E7%89%88.webp",
+        src: "/images/mcserver/VLssu%E5%85%AC%E7%9B%8A%E6%9C%8D_%E8%81%9A%E7%85%A7%E5%9B%BE_2_%E7%AC%AC%E4%BA%8C%E7%89%88.webp",
         alt: "聚会图2—聚餐2"
       })]
     }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.admonition, {
@@ -143,10 +148,10 @@ function _createMdxContent(props) {
       children: "聚会图3—街道"
     }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)(_components.p, {
       children: [(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.img, {
-        src: "/img/mcserver/VLssu%E5%85%AC%E7%9B%8A%E6%9C%8D_%E8%81%9A%E7%85%A7%E5%9B%BE_3_%E7%AC%AC%E4%B8%80%E7%89%88.webp",
+        src: "/images/mcserver/VLssu%E5%85%AC%E7%9B%8A%E6%9C%8D_%E8%81%9A%E7%85%A7%E5%9B%BE_3_%E7%AC%AC%E4%B8%80%E7%89%88.webp",
         alt: "聚会图3—街道"
       }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.img, {
-        src: "/img/mcserver/VLssu%E5%85%AC%E7%9B%8A%E6%9C%8D_%E8%81%9A%E7%85%A7%E5%9B%BE_3_%E7%AC%AC%E4%B8%80%E7%89%8816%EF%BC%9A9.webp",
+        src: "/images/mcserver/VLssu%E5%85%AC%E7%9B%8A%E6%9C%8D_%E8%81%9A%E7%85%A7%E5%9B%BE_3_%E7%AC%AC%E4%B8%80%E7%89%8816%EF%BC%9A9.webp",
         alt: "聚会图3—街道"
       })]
     }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.admonition, {
@@ -279,35 +284,40 @@ function _createMdxContent(props) {
       id: "游戏中合影",
       children: "游戏中合影"
     }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)(_components.p, {
+      children: ["具体、详细、无损文件下载", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.a, {
+        href: "https://zfile.vlssu.com/mc/%E5%90%88%E7%85%A7",
+        children: "点击此处"
+      })]
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)(_components.p, {
       children: [(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.img, {
-        src: "/img/mcserver/picture-1.webp",
+        src: "/images/mcserver/picture-1.webp",
         alt: "合影"
       }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.img, {
-        src: "/img/mcserver/picture-2.webp",
+        src: "/images/mcserver/picture-2.webp",
         alt: "合影"
       }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.img, {
-        src: "/img/mcserver/picture-3.webp",
+        src: "/images/mcserver/picture-3.webp",
         alt: "合影"
       }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.img, {
-        src: "/img/mcserver/picture-4.webp",
+        src: "/images/mcserver/picture-4.webp",
         alt: "合影"
       }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.img, {
-        src: "/img/mcserver/picture-5.webp",
+        src: "/images/mcserver/picture-5.webp",
         alt: "合影"
       }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.img, {
-        src: "/img/mcserver/picture-6.webp",
+        src: "/images/mcserver/picture-6.webp",
         alt: "合影"
       }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.img, {
-        src: "/img/mcserver/picture-7.webp",
+        src: "/images/mcserver/picture-7.webp",
         alt: "合影"
       }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.img, {
-        src: "/img/mcserver/picture-8.webp",
+        src: "/images/mcserver/picture-8.webp",
         alt: "合影"
       }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.img, {
-        src: "/img/mcserver/picture-9.webp",
+        src: "/images/mcserver/picture-9.webp",
         alt: "合影"
       }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.img, {
-        src: "/img/mcserver/picture-10.webp",
+        src: "/images/mcserver/picture-10.webp",
         alt: "合影"
       })]
     })]
