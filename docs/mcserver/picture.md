@@ -31,6 +31,7 @@ sidebar_position: 7
 ![聚会图3—街道](pathname:///img/mcserver/VLssu公益服_聚照图_3_第一版16：9.webp)
 
 :::tip 参与人员
+
 | **第一列** | **第二列** | **第三列**   | **第四列**     | **第五列**   | **第六列**       | **第七列**        |
 |---------|---------|-----------|-------------|-----------|---------------|----------------|
 | **第一行** | mira    |           |             |           |               | GTriXy         | Wol_yun  |
@@ -44,13 +45,13 @@ sidebar_position: 7
 
 ## 游戏中合影
 
-![合影](pathname:///img/mcserver/picture-1.png)
-![合影](pathname:///img/mcserver/picture-2.png)
-![合影](pathname:///img/mcserver/picture-3.png)
-![合影](pathname:///img/mcserver/picture-4.png)
-![合影](pathname:///img/mcserver/picture-5.png)
-![合影](pathname:///img/mcserver/picture-6.png)
-![合影](pathname:///img/mcserver/picture-7.png)
-![合影](pathname:///img/mcserver/picture-8.png)
-![合影](pathname:///img/mcserver/picture-9.png)
-![合影](pathname:///img/mcserver/picture-10.png)
+![合影](pathname:///img/mcserver/picture-1.webp)
+![合影](pathname:///img/mcserver/picture-2.webp)
+![合影](pathname:///img/mcserver/picture-3.webp)
+![合影](pathname:///img/mcserver/picture-4.webp)
+![合影](pathname:///img/mcserver/picture-5.webp)
+![合影](pathname:///img/mcserver/picture-6.webp)
+![合影](pathname:///img/mcserver/picture-7.webp)
+![合影](pathname:///img/mcserver/picture-8.webp)
+![合影](pathname:///img/mcserver/picture-9.webp)
+![合影](pathname:///img/mcserver/picture-10.webp)
