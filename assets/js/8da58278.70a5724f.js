@@ -37,7 +37,7 @@ const metadata = {
   "tags": [],
   "version": "current",
   "lastUpdatedBy": "飒爽师叔",
-  "lastUpdatedAt": 1719931923000,
+  "lastUpdatedAt": 1719934733000,
   "sidebarPosition": 7,
   "frontMatter": {
     "sidebar_position": 7
@@ -272,34 +272,34 @@ function _createMdxContent(props) {
       children: "游戏中合影"
     }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)(_components.p, {
       children: [(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.img, {
-        src: "/img/mcserver/picture-1.png",
+        src: "/img/mcserver/picture-1.webp",
         alt: "合影"
       }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.img, {
-        src: "/img/mcserver/picture-2.png",
+        src: "/img/mcserver/picture-2.webp",
         alt: "合影"
       }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.img, {
-        src: "/img/mcserver/picture-3.png",
+        src: "/img/mcserver/picture-3.webp",
         alt: "合影"
       }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.img, {
-        src: "/img/mcserver/picture-4.png",
+        src: "/img/mcserver/picture-4.webp",
         alt: "合影"
       }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.img, {
-        src: "/img/mcserver/picture-5.png",
+        src: "/img/mcserver/picture-5.webp",
         alt: "合影"
       }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.img, {
-        src: "/img/mcserver/picture-6.png",
+        src: "/img/mcserver/picture-6.webp",
         alt: "合影"
       }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.img, {
-        src: "/img/mcserver/picture-7.png",
+        src: "/img/mcserver/picture-7.webp",
         alt: "合影"
       }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.img, {
-        src: "/img/mcserver/picture-8.png",
+        src: "/img/mcserver/picture-8.webp",
         alt: "合影"
       }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.img, {
-        src: "/img/mcserver/picture-9.png",
+        src: "/img/mcserver/picture-9.webp",
         alt: "合影"
       }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.img, {
-        src: "/img/mcserver/picture-10.png",
+        src: "/img/mcserver/picture-10.webp",
         alt: "合影"
       })]
     })]
