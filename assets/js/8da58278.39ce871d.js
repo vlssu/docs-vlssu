@@ -36,8 +36,8 @@ const metadata = {
   "editUrl": "https://github.com/vlssu/docs.vlssu.com/blob/master/docs/mcserver/picture.md",
   "tags": [],
   "version": "current",
-  "lastUpdatedBy": "飒爽师叔",
-  "lastUpdatedAt": 1719924219000,
+  "lastUpdatedBy": "vlssu",
+  "lastUpdatedAt": 1719924494000,
   "sidebarPosition": 7,
   "frontMatter": {
     "sidebar_position": 7
