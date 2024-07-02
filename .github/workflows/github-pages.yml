@@ -29,10 +29,10 @@ jobs:
         github_token: ${{ secrets.GITHUB_TOKEN }}
         publish_dir: ./build
         cname: docs.vlssu.com
-    # - name: 刷新缓存
-    #   uses: keithnull/tencent-cloud-cdn-purge-cache@v1.0
-    #   env:
-    #     SECRET_ID: ${{ secrets.QCLOUD_SECRET_ID}}
-    #     SECRET_KEY: ${{ secrets.QCLOUD_SECRET_KEY }}
-    #     PATHS: "https://docs.vlssu.com/"
-    #     FLUSH_TYPE: "flush" # optional
+    - name: 刷新缓存
+      uses: keithnull/tencent-cloud-cdn-purge-cache@v1.0
+      env:
+        SECRET_ID: ${{ secrets.QCLOUD_SECRET_ID}}
+        SECRET_KEY: ${{ secrets.QCLOUD_SECRET_KEY }}
+        PATHS: "https://docs.vlssu.com/"
+        FLUSH_TYPE: "flush" # optional
