@@ -37,7 +37,7 @@ const metadata = {
   "tags": [],
   "version": "current",
   "lastUpdatedBy": "vlssu",
-  "lastUpdatedAt": 1719908676000,
+  "lastUpdatedAt": 1719909319000,
   "sidebarPosition": 7,
   "frontMatter": {
     "sidebar_position": 7
@@ -82,6 +82,7 @@ function _createMdxContent(props) {
     h1: "h1",
     h2: "h2",
     h3: "h3",
+    img: "img",
     p: "p",
     ...(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .useMDXComponents */ .R)(),
     ...props.components
@@ -94,15 +95,15 @@ function _createMdxContent(props) {
       id: "聚会渲染图",
       children: "聚会渲染图"
     }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)(_components.p, {
-      children: ["关于服务器，我们将不定时征地图，并让服务器玩家报名，最后将各位放入渲染图中，[欢迎加入QQ群]（", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.a, {
-        href: "https://jq.qq.com/?_wv=1027&k=5mq4JvN%EF%BC%89%E3%80%82",
-        children: "https://jq.qq.com/?_wv=1027&k=5mq4JvN）。"
-      })]
+      children: ["关于服务器，我们将不定时征地图，并让服务器玩家报名，最后将各位放入渲染图中，", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.a, {
+        href: "https://jq.qq.com/?_wv=1027&k=5mq4JvN",
+        children: "欢迎加入QQ群"
+      }), "。"]
     }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.h3, {
       id: "聚会图1小镇",
       children: "聚会图1—小镇"
     }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.p, {
-      children: "![聚会图1—小镇]（./img/VLssu公益服_聚照图_1_第四版.webp）"
+      children: "![聚会图1—小镇]（./img/VLssu公益服_聚照图_1_第四版.webp)"
     }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.admonition, {
       title: "参与人员",
       type: "tip",
@@ -112,8 +113,18 @@ function _createMdxContent(props) {
     }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.h3, {
       id: "聚会图2聚餐",
       children: "聚会图2—聚餐"
-    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.p, {
-      children: "![聚会图2—聚餐]（./img/VLssu公益服_聚照图_2_第一版.webp）\n![聚会图2—聚餐2]（./img/VLssu公益服_聚照图_2_第二版.webp）"
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)(_components.p, {
+      children: [(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.img, {
+        alt: "聚会图2—聚餐",
+        src: (__webpack_require__(514)/* ["default"] */ .A) + "",
+        width: "7680",
+        height: "4320"
+      }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.img, {
+        alt: "聚会图2—聚餐2",
+        src: (__webpack_require__(8806)/* ["default"] */ .A) + "",
+        width: "7680",
+        height: "4320"
+      })]
     }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.admonition, {
       title: "参与人员",
       type: "tip",
@@ -124,7 +135,12 @@ function _createMdxContent(props) {
       id: "聚会图3街道",
       children: "聚会图3—街道"
     }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.p, {
-      children: "![聚会图3—街道]（./img/VLssu公益服_聚照图_3_第一版.webp）"
+      children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.img, {
+        alt: "聚会图3—街道",
+        src: (__webpack_require__(2189)/* ["default"] */ .A) + "",
+        width: "10240",
+        height: "4960"
+      })
     }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.admonition, {
       title: "参与人员",
       type: "tip",
@@ -183,6 +199,36 @@ if (true) {
   module.exports = __webpack_require__(2541);
 } else {}
 
+
+/***/ }),
+
+/***/ 514:
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   A: () => (__WEBPACK_DEFAULT_EXPORT__)
+/* harmony export */ });
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "assets/images/VLssu公益服_聚照图_2_第一版-79952cecdb31cf696267520464afe6c3.webp");
+
+/***/ }),
+
+/***/ 8806:
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   A: () => (__WEBPACK_DEFAULT_EXPORT__)
+/* harmony export */ });
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "assets/images/VLssu公益服_聚照图_2_第二版-36cb7fe2e1e97292ce571001748bd75e.webp");
+
+/***/ }),
+
+/***/ 2189:
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   A: () => (__WEBPACK_DEFAULT_EXPORT__)
+/* harmony export */ });
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "assets/images/VLssu公益服_聚照图_3_第一版-3f2284dcab1da64acfc51932ee9a4aff.webp");
 
 /***/ }),
 
