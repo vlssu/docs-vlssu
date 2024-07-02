@@ -37,7 +37,7 @@ const metadata = {
   "tags": [],
   "version": "current",
   "lastUpdatedBy": "vlssu",
-  "lastUpdatedAt": 1719909838000,
+  "lastUpdatedAt": 1719910121000,
   "sidebarPosition": 7,
   "frontMatter": {
     "sidebar_position": 7
@@ -139,13 +139,18 @@ function _createMdxContent(props) {
     }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.h3, {
       id: "聚会图3街道",
       children: "聚会图3—街道"
-    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.p, {
-      children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.img, {
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)(_components.p, {
+      children: [(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.img, {
         alt: "聚会图3—街道",
         src: (__webpack_require__(2189)/* ["default"] */ .A) + "",
         width: "10240",
         height: "4960"
-      })
+      }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.img, {
+        alt: "聚会图3—街道",
+        src: (__webpack_require__(8499)/* ["default"] */ .A) + "",
+        width: "10240",
+        height: "5760"
+      })]
     }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.admonition, {
       title: "参与人员",
       type: "tip",
@@ -244,6 +249,16 @@ if (true) {
 /* harmony export */   A: () => (__WEBPACK_DEFAULT_EXPORT__)
 /* harmony export */ });
 /* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "assets/images/VLssu公益服_聚照图_3_第一版-3f2284dcab1da64acfc51932ee9a4aff.webp");
+
+/***/ }),
+
+/***/ 8499:
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   A: () => (__WEBPACK_DEFAULT_EXPORT__)
+/* harmony export */ });
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "assets/images/VLssu公益服_聚照图_3_第一版16：9-971b8ab06547dd42d4494f686a096d75.webp");
 
 /***/ }),
 
