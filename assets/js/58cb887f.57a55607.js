@@ -26,7 +26,7 @@ const contentTitle = '生存服务器';
 const metadata = {
   "id": "summary/server/survive",
   "title": "生存服务器",
-  "description": "此服务器版本为1.20.4 (但支持 1.13-最高稳定版本)",
+  "description": "此服务器版本为1.21 (但支持 1.13-最高稳定版本)",
   "source": "@site/docs/mcserver/summary/server/survive.md",
   "sourceDirName": "summary/server",
   "slug": "/summary/server/survive",
@@ -37,7 +37,7 @@ const metadata = {
   "tags": [],
   "version": "current",
   "lastUpdatedBy": "飒爽师叔",
-  "lastUpdatedAt": 1715676156000,
+  "lastUpdatedAt": 1721634427000,
   "sidebarPosition": 2,
   "frontMatter": {
     "sidebar_position": 2
@@ -97,7 +97,7 @@ function _createMdxContent(props) {
     }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.admonition, {
       type: "info",
       children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.p, {
-        children: "此服务器版本为1.20.4 (但支持 1.13-最高稳定版本)"
+        children: "此服务器版本为1.21 (但支持 1.13-最高稳定版本)"
       })
     }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.h2, {
       id: "服务器补充规则",
