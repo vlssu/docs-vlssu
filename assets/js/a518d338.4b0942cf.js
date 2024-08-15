@@ -26,7 +26,7 @@ const contentTitle = '空岛服务器';
 const metadata = {
   "id": "summary/server/bskyblock",
   "title": "空岛服务器",
-  "description": "此服务器版本为1.19.2-[支持最高稳定版本]",
+  "description": "此服务器版本为1.20.4-[支持最高稳定版本]",
   "source": "@site/docs/mcserver/summary/server/bskyblock.md",
   "sourceDirName": "summary/server",
   "slug": "/summary/server/bskyblock",
@@ -37,7 +37,7 @@ const metadata = {
   "tags": [],
   "version": "current",
   "lastUpdatedBy": "飒爽师叔",
-  "lastUpdatedAt": 1660489846000,
+  "lastUpdatedAt": 1723735510000,
   "sidebarPosition": 4,
   "frontMatter": {
     "sidebar_position": 4
@@ -90,7 +90,7 @@ function _createMdxContent(props) {
     }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.admonition, {
       type: "info",
       children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.p, {
-        children: "此服务器版本为1.19.2-[支持最高稳定版本]"
+        children: "此服务器版本为1.20.4-[支持最高稳定版本]"
       })
     }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.admonition, {
       type: "info",
