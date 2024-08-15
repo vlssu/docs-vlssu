@@ -3764,12 +3764,12 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/node@npm:20.14.0":
-  version: 20.14.0
-  resolution: "@types/node@npm:20.14.0"
+"@types/node@npm:20.14.15":
+  version: 20.14.15
+  resolution: "@types/node@npm:20.14.15"
   dependencies:
     undici-types: "npm:~5.26.4"
-  checksum: 10/49b332fbf8aee4dc4f61cc1f1f6e130632510f795dd7b274e55894516feaf4bec8a3d13ea764e2443e340a64ce9bbeb006d14513bf6ccdd4f21161eccc7f311e
+  checksum: 10/87a4a4313e886c1db1c8042004956095477e040f67df993fd16a2d50488c750bda81e85bf702c2e629e964605034e8dfe0cb91b65ce22b6b8eec37ece61c6b6c
   languageName: node
   linkType: hard
 
@@ -5893,7 +5893,7 @@ __metadata:
     "@mdx-js/react": "npm:3.0.1"
     "@tsconfig/docusaurus": "npm:2.0.3"
     "@types/is-ci": "npm:3.0.4"
-    "@types/node": "npm:20.14.0"
+    "@types/node": "npm:20.14.15"
     "@types/prettier": "npm:3.0.0"
     clsx: "npm:2.1.1"
     concurrently: "npm:8.2.2"
