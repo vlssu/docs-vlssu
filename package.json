@@ -31,7 +31,7 @@
     "@docusaurus/theme-classic": "3.4.0",
     "@docusaurus/theme-common": "3.4.0",
     "@docusaurus/theme-search-algolia": "3.4.0",
-    "@fontsource/jetbrains-mono": "5.0.20",
+    "@fontsource/jetbrains-mono": "5.1.1",
     "@mdx-js/react": "3.0.1",
     "clsx": "2.1.1",
     "prism-react-renderer": "2.3.1",
