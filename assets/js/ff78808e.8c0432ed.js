@@ -26,7 +26,7 @@ const contentTitle = '模组服务器';
 const metadata = {
   "id": "summary/server/mod-server",
   "title": "模组服务器",
-  "description": "2023年 一周目服务器，主要玩法为探索-魔法-收集-建筑-种植-烹饪。",
+  "description": "该服务器换周目频繁，可以加群了解更多内容。",
   "source": "@site/docs/mcserver/summary/server/mod-server.md",
   "sourceDirName": "summary/server",
   "slug": "/summary/server/mod-server",
@@ -37,7 +37,7 @@ const metadata = {
   "tags": [],
   "version": "current",
   "lastUpdatedBy": "飒爽师叔",
-  "lastUpdatedAt": 1677395541000,
+  "lastUpdatedAt": 1759898406000,
   "sidebarPosition": 6,
   "frontMatter": {
     "sidebar_position": 6
@@ -59,6 +59,10 @@ const assets = {
 
 
 const toc = [{
+  "value": "该服务器换周目频繁，可以加群了解更多内容。",
+  "id": "该服务器换周目频繁可以加群了解更多内容",
+  "level": 2
+}, {
   "value": "注意事项",
   "id": "注意事项",
   "level": 3
@@ -74,6 +78,7 @@ function _createMdxContent(props) {
     br: "br",
     del: "del",
     h1: "h1",
+    h2: "h2",
     h3: "h3",
     img: "img",
     li: "li",
@@ -86,6 +91,9 @@ function _createMdxContent(props) {
     children: [(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.h1, {
       id: "模组服务器",
       children: "模组服务器"
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.h2, {
+      id: "该服务器换周目频繁可以加群了解更多内容",
+      children: "该服务器换周目频繁，可以加群了解更多内容。"
     }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.p, {
       children: "2023年 一周目服务器，主要玩法为探索-魔法-收集-建筑-种植-烹饪。"
     }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.admonition, {

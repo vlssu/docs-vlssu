@@ -26,7 +26,7 @@ const contentTitle = '创造服务器';
 const metadata = {
   "id": "summary/server/creative",
   "title": "创造服务器",
-  "description": "此服务器版本为1.20.1-[支持最高稳定版本]",
+  "description": "此服务器版本为1.21.8-[支持最高稳定版本]",
   "source": "@site/docs/mcserver/summary/server/creative.md",
   "sourceDirName": "summary/server",
   "slug": "/summary/server/creative",
@@ -37,7 +37,7 @@ const metadata = {
   "tags": [],
   "version": "current",
   "lastUpdatedBy": "飒爽师叔",
-  "lastUpdatedAt": 1713231433000,
+  "lastUpdatedAt": 1759898406000,
   "sidebarPosition": 3,
   "frontMatter": {
     "sidebar_position": 3
@@ -107,7 +107,7 @@ function _createMdxContent(props) {
     }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.admonition, {
       type: "info",
       children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.p, {
-        children: "此服务器版本为1.20.1-[支持最高稳定版本]"
+        children: "此服务器版本为1.21.8-[支持最高稳定版本]"
       })
     }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.h2, {
       id: "如何获取地皮",
