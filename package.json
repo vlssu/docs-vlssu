@@ -42,7 +42,7 @@
     "@docusaurus/module-type-aliases": "3.4.0",
     "@docusaurus/types": "3.4.0",
     "@fec/remark-a11y-emoji": "4.0.2",
-    "@tsconfig/docusaurus": "2.0.3",
+    "@tsconfig/docusaurus": "2.0.9",
     "@types/is-ci": "3.0.4",
     "@types/node": "20.14.0",
     "@types/prettier": "3.0.0",
