@@ -91,4 +91,4 @@ sidebar_position: 5
 
 ## 如果没有你遇到的问题可以在QQ群中询问我们 
 
-[QQ群 - VLssu公益服](https://jq.qq.com/?_wv=1027&k=0anjDlw3)
+[QQ群 - VLssu公益服](https://qm.qq.com/q/QwgcJzuTQG)

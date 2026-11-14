@@ -47,4 +47,4 @@ IP: mod.vlssu.cn
 ![mod列表](./img/mod-server_1.jpg)
 ![mod列表](./img/mod-server_2.jpg)
 
-整合包请进入我们的 [QQ群 - VLssu公益服](https://jq.qq.com/?_wv=1027&k=0anjDlw3) 的群文件中下载。
+整合包请进入我们的 [QQ群 - VLssu公益服](https://qm.qq.com/q/QwgcJzuTQG) 的群文件中下载。

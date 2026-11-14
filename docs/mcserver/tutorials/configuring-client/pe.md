@@ -10,7 +10,7 @@ sidebar_position: 4
 ## 首先进入QQ群或网盘中下载基岩版
 当然你可以用自己的基岩版，版本需：**1.20.40/1.20.41 - 1.20.80/1.20.81**
 
-[QQ群 - VLssu公益服](https://jq.qq.com/?_wv=1027&k=0anjDlw3)
+[QQ群 - VLssu公益服](https://qm.qq.com/q/QwgcJzuTQG)
 
 ## 注册皮肤站账户
 
