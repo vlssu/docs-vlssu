@@ -37,7 +37,7 @@ const metadata = {
   "tags": [],
   "version": "current",
   "lastUpdatedBy": "飒爽师叔",
-  "lastUpdatedAt": 1697418599000,
+  "lastUpdatedAt": 1794656918000,
   "sidebarPosition": 5,
   "frontMatter": {
     "sidebar_position": 5
@@ -354,7 +354,7 @@ function _createMdxContent(props) {
       children: "如果没有你遇到的问题可以在QQ群中询问我们"
     }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.p, {
       children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.a, {
-        href: "https://jq.qq.com/?_wv=1027&k=0anjDlw3",
+        href: "https://qm.qq.com/q/QwgcJzuTQG",
         children: "QQ群 - VLssu公益服"
       })
     })]
