@@ -17,8 +17,7 @@ jobs:
     - name: 安装依赖
       run: |
         corepack enable
-        yarn set version stable
-        yarn
+        yarn install --immutable
 
     - name: Build
       run: yarn run build
